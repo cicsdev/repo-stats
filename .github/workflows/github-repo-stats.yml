@@ -78,6 +78,7 @@ jobs:
           - "cicsdev/cics-eventprocessing-java"
           - "cicsdev/base64"
           - "cicsdev/cics-banking-sample-application-cbsa"
+          - "IBM/cics-tutorial-bundle-maven-gradle"
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be

@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-policy-samples,16,10
+/cicsdev/cics-policy-samples/tree/main/bundles/CICSDEV_system_rule,5,1
+/cicsdev/cics-policy-samples/blob/main/README.md,4,1
+/cicsdev/cics-policy-samples/tree/main/bundles,3,1
+/cicsdev/cics-policy-samples/tree/main/bundles/CICSDEV_system_rule/META-INF,3,1
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/META-INF/cics.xml,2,1
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/mySystemRules.policy,2,1
+/cicsdev/cics-policy-samples/tree/main/bundles/CICSDEV_system_rule/.settings,2,1

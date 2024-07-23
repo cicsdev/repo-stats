@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous,9,2
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/src/main,5,2
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/.settings,5,1
+/cicsdev/cics-java-liberty-springboot-asynchronous,2,2
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/.settings/org.eclipse.buildship.core.prefs,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous/Application.java,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous/AsyncService.java,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous/RESTControllerAsync.java,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/.github/workflows,2,1

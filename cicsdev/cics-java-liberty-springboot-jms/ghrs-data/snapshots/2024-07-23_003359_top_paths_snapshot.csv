@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jms,4,4
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/JMSMessageReceiver.java,4,2
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/JMSMessageSendController.java,4,2
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main,4,2
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main/java/com/ibm/cicsdev/springboot/jms,3,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/README.md,2,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/Application.java,2,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/ServletInitializer.java,2,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/.github/workflows,2,1

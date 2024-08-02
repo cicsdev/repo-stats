@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,107,39
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/CBSA_base_cobol_installation_instructions.md,83,8
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,58,18
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,46,12
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,29,11
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/install/libertyUI/doc/CBSA_Liberty_UI_installation_deployment_guide.md,24,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/CONTRIBUTING.md,23,3
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,22,13
+/cicsdev/cics-banking-sample-application-cbsa/issues,21,8
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Customer-Services-Interface,20,6

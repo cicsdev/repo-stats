@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,12,9
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Cobol/EDUCHAN.cbl,6,4
+/cicsdev/cics-java-liberty-restapp/tree/main/src,5,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/bean/CICSEnvironment.java,4,2
+/cicsdev/cics-java-liberty-restapp/blob/main/build.gradle,4,1
+/cicsdev/cics-java-liberty-restapp/tree/main/src/Cobol,3,2
+/cicsdev/cics-java-liberty-restapp/tree/main/src/Java/com/ibm/cicsdev/restapp,3,1
+/cicsdev/cics-java-liberty-restapp/tree/main/src/Java/com/ibm/cicsdev/restapp/bean,3,1
+/cicsdev/cics-java-liberty-restapp/blob/main/pom.xml,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/bean/ReverseResult.java,2,1

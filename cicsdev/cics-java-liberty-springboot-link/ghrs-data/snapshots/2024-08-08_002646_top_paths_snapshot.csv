@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui,16,2
+/cicsdev/cics-java-liberty-springboot-link,13,11
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main,10,2
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/resources,10,1
+/cicsdev/cics-java-liberty-springboot-link/blob/main/pom.xml,8,4
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/ServletInitializer.java,8,3
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/cics/CICSCallable.java,7,2
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/Application.java,6,2
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/InMemoryMessageRepository.java,6,2
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/webapp/WEB-INF,6,1

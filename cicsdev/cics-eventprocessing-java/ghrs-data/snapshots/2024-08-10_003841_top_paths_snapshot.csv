@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-eventprocessing-java/blob/main/README.md,6,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/EVNT.transaction,4,1
+/cicsdev/cics-eventprocessing-java,3,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/ACCOUNTADAPTER.epadapter,2,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/ACCOUNT.evbind,2,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/java/com/ibm/cicsdev/eventprocessing/EventConsumer.java,2,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/webapp/WEB-INF/web.xml,2,1
+/cicsdev/cics-eventprocessing-java/blob/main/etc/liberty/server.xml,2,1

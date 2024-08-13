@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,62,33
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/aarfiles/creacc.aar,59,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/CBSA_base_cobol_installation_instructions.md,39,8
+/cicsdev/cics-banking-sample-application-cbsa/commits/main/etc/install/base/db2jcl/INSTDB2.jcl,32,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/install,29,5
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,28,8
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/install/base,26,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc,23,6
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,19,6
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/bank-application-frontend/src/content/CustomerCreationPage/CustomerCreationPage.js,12,1

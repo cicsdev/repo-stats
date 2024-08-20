@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,17,7
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/BrowseTSQController.java,8,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/README.md,6,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/DeleteTSQController.java,6,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/RootController.java,6,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/WriteTSQController.java,6,2
+/CICSDev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,6,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/InfoTSQController.java,4,2
+/cicsdev/cics-java-liberty-springboot-jcics/security,3,2
+/cicsdev/cics-java-liberty-springboot-jcics/security/dependabot,3,2

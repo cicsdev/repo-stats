@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,48,29
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,42,13
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/aarfiles/creacc.aar,16,1
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/installjcl/BANK.csd,14,3
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Customer-Services-Interface/src/main,13,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/bank-application-frontend,13,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/doc,12,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Customer-Services-Interface,12,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,11,3
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/webui,9,4

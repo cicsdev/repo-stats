@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-link,17,16
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app,17,7
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app/src/main,15,5
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link,13,5
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link/HelloLiberty.java,10,5
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/pom.xml,8,2
+/cicsdev/cics-java-liberty-link/blob/main/etc/config/liberty/server.xml,4,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/webapp/WEB-INF/ibm-web-ext.xml,2,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/webapp/WEB-INF/web.xml,2,1
+/cicsdev/cics-java-liberty-link/blob/main/README.md,2,1

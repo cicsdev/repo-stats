@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,8,6
+/CICSDev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,8,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/BrowseTSQController.java,4,2
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/gradle/wrapper,4,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/.mvn/wrapper/maven-wrapper.properties,3,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/gradle/wrapper/gradle-wrapper.properties,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/README.md,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/DeleteTSQController.java,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/InfoTSQController.java,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/RootController.java,2,1

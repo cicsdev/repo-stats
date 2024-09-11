@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp,10,3
+/cicsdev/cics-java-jcicsx-samples,6,4
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp,6,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/pom.xml,5,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/mockito-testing-containers-sample/src/test/java/mockitotests/CurrencyConverterTest.java,4,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main,4,1
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/webapp,4,1
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/webapp/WEB-INF,4,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/InfoResource.java,2,1

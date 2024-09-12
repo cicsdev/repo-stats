@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-ejb,5,3
+/cicsdev/cics-java-liberty-ejb/tree/main/projects,5,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.app,3,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.shop.web,3,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.shop.web/src/com/ibm/cicsdev/ejb/shop/web,3,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.shop.web/src/com/ibm/cicsdev/ejb/shop/web/Catalogue.java,2,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.app/EarContent/META-INF,2,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.bundle,2,1

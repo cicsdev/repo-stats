@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp/tree/main/base,69,24
+/cicsdev/cics-genapp,63,44
+/cicsdev/cics-genapp/tree/main/base/src,28,11
+/cicsdev/cics-genapp/blob/main/base/Architecture.md,19,4
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb01.cbl,18,8
+/cicsdev/cics-genapp/tree/main/base/cntl,14,4
+/cicsdev/cics-genapp/blob/main/base/cntl/adef121.jcl,13,5
+/cicsdev/cics-genapp/tree/main,11,7
+/cicsdev/cics-genapp/blob/main/base/README.md,10,4
+/cicsdev/cics-genapp/tree/main/base/event-bindings,8,2

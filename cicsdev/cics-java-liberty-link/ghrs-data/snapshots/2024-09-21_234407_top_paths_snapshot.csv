@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-link,24,19
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app,17,5
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link,12,4
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app/src/main,11,3
+/cicsdev/cics-java-liberty-link/blob/main/gradle.properties,7,3
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-bundle,7,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link/HelloLiberty.java,6,2
+/cicsdev/cics-java-liberty-link/blob/main/etc/config/liberty/server.xml,6,2
+/cicsdev/cics-java-liberty-link/blob/main/README.md,6,2
+/cicsdev/cics-java-liberty-link/blob/main/.gitignore,4,2

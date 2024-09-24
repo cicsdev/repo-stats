@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/resources/templates/login.html,24,1
+/cicsdev/cics-java-liberty-springboot-security/blob/4236d1edfbaaa009584fd399e996450c059682cc/src/main/java/com/ibm/cicsdev/springboot/security/Application.java,22,1
+/cicsdev/cics-java-liberty-springboot-security/blob/4236d1edfbaaa009584fd399e996450c059682cc/src/main/java/com/ibm/cicsdev/springboot/security/WebSecureController.java,17,1
+/cicsdev/cics-java-liberty-springboot-security/blob/4236d1edfbaaa009584fd399e996450c059682cc/src/main/java/com/ibm/cicsdev/springboot/security/ServletInitializer.java,14,1
+/cicsdev/cics-java-liberty-springboot-security/blob/4236d1edfbaaa009584fd399e996450c059682cc/src/main/webapp/WEB-INF/web.xml,14,1
+/cicsdev/cics-java-liberty-springboot-security/tree/4236d1edfbaaa009584fd399e996450c059682cc/src/main,14,1
+/cicsdev/cics-java-liberty-springboot-security/blob/4236d1edfbaaa009584fd399e996450c059682cc/src/main/resources/templates/login.html,12,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/resources/application.properties,10,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/Application.java,8,2
+/cicsdev/cics-java-liberty-springboot-security/blob/4236d1edfbaaa009584fd399e996450c059682cc/src/main/resources/templates/error.html,8,1

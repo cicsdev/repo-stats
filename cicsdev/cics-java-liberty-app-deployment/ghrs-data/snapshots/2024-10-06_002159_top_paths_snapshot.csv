@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-app-deployment,14,13
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/src/com/ibm/cicsdev/jmx/HttpEndpointController.java,7,2
+/cicsdev/cics-java-liberty-app-deployment/blob/26885ea821d28cd73a2620fd7e4f5467451f61c7/src/COBOL/WLPCTRLW.cbl,7,1
+/cicsdev/cics-java-liberty-app-deployment/blob/26885ea821d28cd73a2620fd7e4f5467451f61c7/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/resume_liberty_httpendpoint.policy,6,1
+/cicsdev/cics-java-liberty-app-deployment/blob/26885ea821d28cd73a2620fd7e4f5467451f61c7/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/START_WLPC.epadapter,6,1
+/cicsdev/cics-java-liberty-app-deployment/blob/26885ea821d28cd73a2620fd7e4f5467451f61c7/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/WLPCTRLW.program,6,1
+/cicsdev/cics-java-liberty-app-deployment/tree/26885ea821d28cd73a2620fd7e4f5467451f61c7/projects/com.ibm.cicsdev.jmx.httpendpoint.controller,6,1
+/cicsdev/cics-java-liberty-app-deployment/blob/main/src/COBOL/WLPCTRLW.cbl,4,3
+/cicsdev/cics-java-liberty-app-deployment/blob/26885ea821d28cd73a2620fd7e4f5467451f61c7/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/com.ibm.cicsdev.jmx.httpendpoint.controller.warbundle,4,1
+/cicsdev/cics-java-liberty-app-deployment/blob/26885ea821d28cd73a2620fd7e4f5467451f61c7/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/WLPC.transaction,4,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,10,4
+/cicsdev/cics-security-sdv-samples/security,2,2
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/devcontainer.json,2,1
+/cicsdev/cics-security-sdv-samples/pulls,2,1
+/cicsdev/cics-security-sdv-samples/security/dependabot,2,1
+/cicsdev/cics-security-sdv-samples/tree/main/.devcontainer,2,1
+/cicsdev/cics-security-sdv-samples/actions/runs/11015509500,1,1
+/cicsdev/cics-security-sdv-samples/actions/workflows/continuous-integration.yml,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/initialise_dev_container.sh,1,1
+/cicsdev/cics-security-sdv-samples/commits/main,1,1

@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-batch,4,3
+/cicsdev/cics-java-batch/blob/main/src/com/ibm/cicsdev/batch/simpleBatchlet.java,1,1
+/cicsdev/cics-java-batch/blob/main/src/META-INF/batch-jobs/simpleBatchlet.xml,1,1
+/cicsdev/cics-java-batch/tree/main/src,1,1
+/cicsdev/cics-java-batch/tree/main/src/META-INF,1,1

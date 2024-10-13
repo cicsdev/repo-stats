@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-eventprocessing-java,6,3
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/java/com/ibm/cicsdev/eventprocessing/EventEmitter.java,5,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/java/com/ibm/cicsdev/eventprocessing/EventConsumer.java,4,1
+/cicsdev/cics-eventprocessing-java/tree/main/cics-eventprocessing-java-bundle,4,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/ACCOUNT.evbind,3,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/ACCOUNTADAPTER.epadapter,2,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/pom.xml,1,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/EVNT.transaction,1,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/pom.xml,1,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/webapp/WEB-INF/web.xml,1,1

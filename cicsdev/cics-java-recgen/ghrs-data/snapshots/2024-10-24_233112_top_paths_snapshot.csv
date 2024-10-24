@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-recgen,11,8
+/cicsdev/cics-java-recgen/tree/main/src/Cobol,5,4
+/cicsdev/cics-java-recgen/tree/main/projects,3,2
+/cicsdev/cics-java-recgen/blob/main/src/Cobol/EDUCPY.cbl,2,2
+/cicsdev/cics-java-recgen/blob/main/src/Cobol/EDUPGM.cbl,2,2
+/cicsdev/cics-java-recgen/tree/main,2,2
+/cicsdev/cics-java-recgen/tree/main/projects/com.ibm.cicsdev.jzostest.cicsbundle,2,2
+/cicsdev/cics-java-recgen/tree/main/src,2,2
+/cicsdev/cics-java-recgen/blob/main/projects/com.ibm.cicsdev.jzostest.cicsbundle/com.ibm.cicsdev.jzostest.osgi.osgibundle,1,1
+/cicsdev/cics-java-recgen/blob/main/projects/com.ibm.cicsdev.jzostest/lib/EDUPGM.jar,1,1

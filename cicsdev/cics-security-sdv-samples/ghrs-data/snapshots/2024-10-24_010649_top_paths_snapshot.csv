@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,20,8
+/cicsdev/cics-security-sdv-samples/security/dependabot/6,6,2
+/cicsdev/cics-security-sdv-samples/pulls,5,2
+/cicsdev/cics-security-sdv-samples/security,3,1
+/cicsdev/cics-security-sdv-samples/security/dependabot,3,1
+/cicsdev/cics-security-sdv-samples/blob/main/package.json,2,1
+/cicsdev/cics-security-sdv-samples/blob/82ed033d208e3ff84528410f040a83da36e180f3/lib/__tests__/securityRepoPullRequestActions.test.js,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/ansible-sdv-pipeline/playbooks/library/fetch_galasa_security_data.py,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/ansible-sdv-pipeline/playbooks/security-approval.yaml,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/devcontainer.json,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer,7,2
+/cicsdev/cics-event-consumer/pull/17,6,2
+/cicsdev/cics-event-consumer/pull/17/commits,5,1
+/cicsdev/cics-event-consumer/branches,2,1
+/cicsdev/cics-event-consumer/pull/17/files,2,1
+/cicsdev/cics-event-consumer/tree/main/projects,2,1
+/cicsdev/cics-event-consumer/tree/main/projects/com.ibm.cics.ca1y.web,2,1
+/cicsdev/cics-event-consumer/blob/main/projects/com.ibm.cics.ca1y.web/pom.xml,1,1
+/cicsdev/cics-event-consumer/blob/main/projects/com.ibm.cics.ca1y.web/src/com/ibm/cics/ca1y/Emit.java,1,1
+/cicsdev/cics-event-consumer/compare/main...dependabot/maven/projects/com.ibm.cics.ca1y.web/commons-io-commons-io-2.14.0,1,1

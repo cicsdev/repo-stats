@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jdbc,4,3
+/cicsdev/cics-java-liberty-springboot-jdbc/issues/3,2,2
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/EmployeeService.java,1,1

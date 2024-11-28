@@ -11,6 +11,8 @@ jobs:
 
     steps:
       - name: check-activity
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           echo "Public repositories:"
           gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=name --jq=.[].name | sort | tee public-repos.txt

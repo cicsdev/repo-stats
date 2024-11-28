@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,61,35
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_src/BNK1CAC.cbl,19,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,18,10
+/cicsdev/cics-banking-sample-application-cbsa/commits/main,18,3
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,17,11
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,16,11
+/cicsdev/cics-banking-sample-application-cbsa/blob/60b3ddc07edebd71f54340580bd687d7478310eb/src/base/cobol_src/BANKDATA.cbl,16,3
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,13,7
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_src/BANKDATA.cbl,12,4
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/bms_src/BNK1ACC.bms,11,7

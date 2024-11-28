@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-ejb/tree/main/projects,3,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.app,3,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb/ejbModule,3,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb/ejbModule/com/ibm/cicsdev/ejb,3,1
+/cicsdev/cics-java-liberty-ejb,2,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.app/EarContent/META-INF/application.xml,2,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb/ejbModule/com/ibm/cicsdev/ejb/CatalogueBean.java,2,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb,2,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.app/EarContent/META-INF,2,1
+/cicsdev/cics-java-liberty-ejb/blob/main/etc/config/server.xml,1,1

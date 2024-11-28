@@ -14,11 +14,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          echo "Public repositories:"
+          echo "\nPublic repositories:"
           gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=name --jq=.[].name | sort | tee public-repos.txt
-          echo "Active repositories:"
+          echo "\nActive repositories:"
           gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --updated=">2022-11-28" --json=name --jq=.[].name | sort | tee active-repos.txt
-          echo "Stale repositories:"
+          echo "\nStale repositories:"
           comm -13 active-repos.txt public-repos.txt | tee stale-repos.txt
           count=$(wc -l < stale-repos.txt)
-          [ $count -eq 0 ] || echo "::error title=Stale repositories::There are $count stale repositories"
+          [ $count -eq 0 ] || { echo "::error title=Stale repositories::There are $count stale repositories"; exit 1; }

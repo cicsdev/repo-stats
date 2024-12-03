@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,6,4
+/cicsdev/cics-security-sdv-samples/blob/main/MAINTAINERS.md,2,2
+/cicsdev/cics-security-sdv-samples/blob/main/lib/app.js,2,1
+/cicsdev/cics-security-sdv-samples/blob/main/lib/handlers/handlePrEvents.js,2,1
+/cicsdev/cics-security-sdv-samples/blob/main/lib/handlers/handleReviewEvents.js,2,1
+/cicsdev/cics-security-sdv-samples/blob/main/Dockerfile,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/docs/jsconfig.json,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/docs/next.config.mjs,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/docs/package.json,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/docs/package-lock.json,1,1

@@ -21,7 +21,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -eux
-          REPOS=$(gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=name --jq=[.[].name])
+          REPOS=$(gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=fullName --jq=[.[].fullName])
           echo "repos=$REPOS" >> "$GITHUB_OUTPUT"
 
   run-ghrs-with-matrix:

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/repo-stats/actions,18,1
+/cicsdev/repo-stats,14,1
+/cicsdev/repo-stats/actions/workflows/repo-activity-check.yml,8,1
+/cicsdev/repo-stats/actions/new,6,1
+/cicsdev/repo-stats/actions/runs/12129733864,6,1
+/cicsdev/repo-stats/pulls,6,1
+/cicsdev/repo-stats/actions/runs/12109864796,3,1
+/cicsdev/repo-stats/actions/runs/12129733864/job/33818728398,3,1
+/cicsdev/repo-stats/blob/main/.github/workflows/github-repo-stats.yml,3,1
+/cicsdev/repo-stats/branches,3,1

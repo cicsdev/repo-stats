@@ -20,11 +20,14 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          echo "repos=$(gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=name --jq=[.[].name])" >> "$GITHUB_OUTPUT"
+          set -eux
+          REPOS=$(gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=name --jq=[.[].name])
+          echo "repos=$REPOS" >> "$GITHUB_OUTPUT"
 
   run-ghrs-with-matrix:
     name: github-repo-stats
     runs-on: ubuntu-latest
+    needs: define-matrix
     strategy:
       matrix:
         statsRepo: ${{ fromJSON(needs.define-matrix.outputs.repos) }}

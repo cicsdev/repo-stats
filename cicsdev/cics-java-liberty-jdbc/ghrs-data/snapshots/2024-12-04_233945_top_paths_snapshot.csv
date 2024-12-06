@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,7,5
+/cicsdev/cics-java-liberty-jdbc/blob/main/projects/com.ibm.cicsdev.jdbc.web/src/com/ibm/cicsdev/jdbc/DoJDBC.java,5,3
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects,5,3
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects/com.ibm.cicsdev.jdbc.web,4,2
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects/com.ibm.cicsdev.jdbc.web/WebContent,4,1
+/cicsdev/cics-java-liberty-jdbc/blob/main/projects/com.ibm.cicsdev.jdbc.web/src/com/ibm/cicsdev/jdbc/SimpleJDBCServlet.java,2,2
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects/com.ibm.cicsdev.jdbc.web/src/com/ibm/cicsdev/jdbc,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects/com.ibm.cicsdev.jdbc.web/WebContent/META-INF,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects/com.ibm.cicsdev.jdbc.web/WebContent/WEB-INF,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/main/etc/config/type-2-server.xml,1,1

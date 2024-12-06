@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,22,9
+/cicsdev/cics-java-liberty-restapp/tree/main/src,12,5
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main,8,4
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main/java/com/ibm/cicsdev/restapp,6,4
+/cicsdev/cics-java-liberty-restapp/tree/main/src/cobol,5,5
+/cicsdev/cics-java-liberty-restapp/tree/main,4,3
+/cicsdev/cics-java-liberty-restapp/blob/main/build.gradle,3,1
+/cicsdev/cics-java-liberty-restapp/blob/main/MAINTAINERS.md,2,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/cobol/EDUCHAN.cbl,2,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/bean/CICSEnvironment.java,2,2

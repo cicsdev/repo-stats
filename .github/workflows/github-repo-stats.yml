@@ -7,78 +7,27 @@ on:
   workflow_dispatch:
 
 jobs:
+  # Find all the cicsdev repositories to generate reports for
+  define-matrix:
+    runs-on: ubuntu-latest
+
+    outputs:
+      repos: ${{ steps.repos.outputs.repos }}
+
+    steps:
+      - name: Define Repositories
+        id: repos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=name --jq=[.[].name] >> "$GITHUB_OUTPUT"
+
   run-ghrs-with-matrix:
     name: github-repo-stats
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        # The repositories to generate reports for.
-        statsRepo:
-          - "cicsdev/cicstg-jca-liberty-sample"
-          - "cicsdev/cicstg-client-blocker"
-          - "cicsdev/cicstg-cloud-monitor"
-          - "cicsdev/cics-java-liberty-jaxrs"
-          - "cicsdev/cics-java-liberty-jaxws"
-          - "cicsdev/cics-java-osgi-mq-jms"
-          - "cicsdev/cics-java-liberty-appstate"
-          - "cicsdev/cics-java-recgen"
-          - "cicsdev/cics-java-liberty-globalhandler"
-          - "cicsdev/cics-java-j2cprog"
-          - "cicsdev/cics-async-api-fetch-child-example"
-          - "cicsdev/cics-async-api-credit-card-application-example"
-          - "cicsdev/cics-cpsm-wlm-trace"
-          - "cicsdev/cics-explorer-access-level-policing"
-          - "cicsdev/cics-java-liberty-restapp"
-          - "cicsdev/cics-async-api-channel-usage-example"
-          - "cicsdev/cics-bundle-scripts"
-          - "cicsdev/cics-java-batch"
-          - "cicsdev/cics-java-liberty-link"
-          - "cicsdev/cics-java-jcics-samples"
-          - "cicsdev/cics-event-consumer"
-          - "cicsdev/cics-ipic-heartbeat-disabler"
-          - "cicsdev/cics-async-fetch-variation-example"
-          - "cicsdev/cics-java-liberty-restapp-ext"
-          - "cicsdev/cics-java-liberty-tai-jwt"
-          - "cicsdev/cics-java-liberty-mq-jms"
-          - "cicsdev/cics-exci-64bit-connector"
-          - "cicsdev/cics-nodejs-exci-module"
-          - "cicsdev/cics-nodejs-exci-webapp-sample"
-          - "cicsdev/zospt-scripts"
-          - "cicsdev/cics-java-liberty-jdbc"
-          - "cicsdev/cics-java-liberty-sqlj"
-          - "cicsdev/cics-java-liberty-ejb"
-          - "cicsdev/cics-async-api-redbooks"
-          - "cicsdev/cics-java-liberty-employee-db"
-          - "cicsdev/cics-kerberos-sample"
-          - "cicsdev/cpsm-cicsplex-name-detector"
-          - "cicsdev/cics-java-osgi-ds"
-          - "cicsdev/cics-java-liberty-jaspic-jwt"
-          - "cicsdev/cics-java-liberty-loans-and-scoring"
-          - "cicsdev/cics-nodejs-invoke"
-          - "cicsdev/cics-java-liberty-app-deployment"
-          - "cicsdev/cics-policy-samples"
-          - "cicsdev/cics-java-jcicsx-samples"
-          - "cicsdev/cics-java-liberty-springboot-jcics"
-          - "cicsdev/cics-java-liberty-springboot-security"
-          - "cicsdev/blog-cics-java-mq-jms-osgi"
-          - "cicsdev/blog-cics-java-osgi-classloading"
-          - "cicsdev/blog-cics-java-batch"
-          - "cicsdev/blog-cics-java-jta-jdbc"
-          - "cicsdev/blog-cics-java-liberty-ejb"
-          - "cicsdev/blog-cics-java-osgi-best-practices"
-          - "cicsdev/cics-java-liberty-springboot-transactions"
-          - "cicsdev/cics-blog-sample-files"
-          - "cicsdev/cics-java-liberty-springboot-link"
-          - "cicsdev/cics-java-liberty-springboot-jdbc-multi"
-          - "cicsdev/cics-java-liberty-springboot-jdbc"
-          - "cicsdev/cics-java-liberty-springboot-jpa"
-          - "cicsdev/cics-java-liberty-springboot-asynchronous"
-          - "cicsdev/cics-genapp"
-          - "cicsdev/cics-java-liberty-springboot-jms"
-          - "cicsdev/cics-eventprocessing-java"
-          - "cicsdev/base64"
-          - "cicsdev/cics-banking-sample-application-cbsa"
-          - "cicsdev/cics-security-sdv-samples"
+        statsRepo: ${{ fromJSON(needs.define-matrix.outputs.repos) }}
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
@@ -87,6 +36,9 @@ jobs:
     steps:
       - name: run-ghrs
         uses: jgehrcke/github-repo-stats@306db38ad131cab2aa5f2cd3062bf6f8aa78c1aa
+        # Exclude non-sample repos
+        if: ${{ !contains(fromJSON('[".github", "repo-stats", "cicsdev.github.io"]'), matrix.statsRepo) }}
         with:
           repository: ${{ matrix.statsRepo }}
+          databranch: reports
           ghtoken: ${{ secrets.ghrs_github_api_token }}

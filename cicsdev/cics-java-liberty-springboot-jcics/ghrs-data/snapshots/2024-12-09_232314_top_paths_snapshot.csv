@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,18,10
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main,17,2
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main,15,6
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,13,5
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/pom.xml,10,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/MAINTAINERS.md,4,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/WriteTSQController.java,4,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/BrowseTSQController.java,3,3
+/cicsdev/cics-java-liberty-springboot-jcics/pull/12,3,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/Application.java,3,2

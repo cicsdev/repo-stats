@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-transactions,7,4
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/README.md,4,2
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/MAINTAINERS.md,2,2
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactionTemplate.java,2,2
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/Application.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/JEEUserTransaction.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactional.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/TransactionController.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/tree/main/src,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/tree/main/src/main,1,1

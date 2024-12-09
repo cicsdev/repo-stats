@@ -40,7 +40,7 @@ jobs:
       - name: run-ghrs
         uses: jgehrcke/github-repo-stats@306db38ad131cab2aa5f2cd3062bf6f8aa78c1aa
         # Exclude non-sample repos
-        if: ${{ !contains(fromJSON('[".github", "repo-stats", "cicsdev.github.io"]'), matrix.statsRepo) }}
+        if: ${{ !contains(fromJSON('["cicsdev/.github", "cicsdev/repo-stats", "cicsdev/cicsdev.github.io"]'), matrix.statsRepo) }}
         with:
           repository: ${{ matrix.statsRepo }}
           databranch: reports

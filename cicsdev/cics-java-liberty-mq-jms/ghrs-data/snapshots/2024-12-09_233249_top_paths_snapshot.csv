@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-mq-jms,4,3
+/cicsdev/cics-java-liberty-mq-jms/blob/main/etc/server.xml,4,3
+/cicsdev/cics-java-liberty-mq-jms/tree/main/projects,4,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main,3,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main/etc,2,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main/projects/com.ibm.cicsdev.mqjms.mdb.ear,2,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/projects/com.ibm.cicsdev.mqjms.mdb.ear/.settings/org.eclipse.wst.common.component,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/projects/com.ibm.cicsdev.mqjms.mdb.ear/.settings/org.eclipse.wst.common.project.facet.core.xml,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/projects/com.ibm.cicsdev.mqjms.mdb/ejbModule/com/ibm/cicsdev/mqjms/mdb/MySimpleMDB.java,1,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main/projects/com.ibm.cicsdev.mqjms.mdb,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-policy-samples,5,4
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/mySystemRules.policy,2,2
+/cicsdev/cics-policy-samples/blob/main/README.md,2,2
+/cicsdev/cics-policy-samples/tree/main/bundles,2,2
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/META-INF/cics.xml,1,1
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/.project,1,1
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/.settings/org.eclipse.core.resources.prefs,1,1
+/cicsdev/cics-policy-samples/blob/main/.DS_Store,1,1
+/cicsdev/cics-policy-samples/blob/main/LICENSE,1,1
+/cicsdev/cics-policy-samples/tree/main/bundles/CICSDEV_system_rule,1,1

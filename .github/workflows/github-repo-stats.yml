@@ -21,7 +21,11 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -eux
-          REPOS=$(gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=fullName --jq=[.[].fullName])
+          REPOS=$(gh api \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "/orgs/cicsdev/repos?type=public&per_page=100&sort=updated&direction=desc" | \
+            jq '[.[] | select(.archived==false) | .full_name]')
           echo "repos=$REPOS" >> "$GITHUB_OUTPUT"
 
   run-ghrs-with-matrix:

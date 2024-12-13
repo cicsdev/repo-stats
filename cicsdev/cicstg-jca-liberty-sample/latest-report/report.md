@@ -1,5 +1,5 @@
 % Statistics for cicsdev/cicstg-jca-liberty-sample
-% Generated for [cicsdev/cicstg-jca-liberty-sample](https://github.com/cicsdev/cicstg-jca-liberty-sample) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-13 15:08 UTC.
+% Generated for [cicsdev/cicstg-jca-liberty-sample](https://github.com/cicsdev/cicstg-jca-liberty-sample) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-13 23:47 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.ibm.com`, 03: `DuckDuckGo`, 04: `ibm
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/com/ibm/ctg/samples/liberty`, 03: `/blob/main/server.xml`, 04: `/blob/main/com/ibm/ctg/samples/liberty/JCAServlet.java`, 05: `/tree/main/WEB-INF`, 06: `/blob/main/WEB-INF/web.xml`, 07: `/tree/main`, 08: `/blob/main/readme.md`, 09: `/tree/main/com/ibm/ctg/samples`, 10: `/blob/main/LICENSE`, 11: `/tree/main/com`, 12: `/tree/main/com/ibm/ctg`
+Top 15 paths: 01: `/`, 02: `/tree/main/com/ibm/ctg/samples/liberty`, 03: `/blob/main/server.xml`, 04: `/blob/main/com/ibm/ctg/samples/liberty/JCAServlet.java`, 05: `/tree/main/WEB-INF`, 06: `/blob/main/WEB-INF/web.xml`, 07: `/tree/main`, 08: `/tree/main/com/ibm/ctg/samples`, 09: `/blob/main/readme.md`, 10: `/tree/main/com`, 11: `/blob/main/LICENSE`, 12: `/tree/main/com/ibm/ctg`
 
 
 <script type="text/javascript">

@@ -10,16 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: check-activity
+      - name: stale-repo-check
+        working-directory: ${{ runner.temp }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          since=$(date -d "2 years ago" "+%Y-%m-%d")
-          echo "Public repositories:"
-          gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --json=name --jq=.[].name | sort | tee public-repos.txt
-          echo "Active repositories since $since:"
-          gh search repos --owner=cicsdev --visibility=public --archived=false --limit=99 --updated=">$since" --json=name --jq=.[].name | sort | tee active-repos.txt
           echo "Stale repositories:"
-          comm -13 active-repos.txt public-repos.txt | tee stale-repos.txt
+          gh api \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "/orgs/cicsdev/repos?type=public&per_page=100&sort=updated&direction=asc" | \
+            jq -r '.[] | select(.archived==false) | select((.updated_at | fromdateiso8601) < (now | gmtime | .[0] -= 2 | mktime)) | (.updated_at | fromdateiso8601 | strftime("%Y-%m-%d")) + " " + .name' | tee stale-repos.txt
           count=$(wc -l < stale-repos.txt)
           [ $count -eq 0 ] || { echo "::error title=Stale repositories::There are $count stale repositories"; exit 1; }

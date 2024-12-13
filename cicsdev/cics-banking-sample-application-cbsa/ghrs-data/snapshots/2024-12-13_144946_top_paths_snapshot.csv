@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,60,38
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/CBSA_base_cobol_installation_instructions.md,30,12
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,23,13
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/usage/springBoot/doc/CBSA_Restful_API_guide.md,23,9
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,20,13
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,17,8
+/cicsdev/cics-banking-sample-application-cbsa/blob/60b3ddc07edebd71f54340580bd687d7478310eb/src/base/cobol_src/BANKDATA.cbl,13,3
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/README.md,11,9
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/usage/base/doc/CBSA_BMS_User_Guide.md,11,6
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/doc,10,7

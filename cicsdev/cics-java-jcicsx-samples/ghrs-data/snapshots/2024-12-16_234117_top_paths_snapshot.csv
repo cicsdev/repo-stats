@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,9,8
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp,5,4
+/cicsdev/cics-java-jcicsx-samples/blob/main/append-char-container-sample/README.md,3,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/append-char-container-sample/src/main/java/sample/AppendCharServlet.java,2,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/src/main/java/sample/CICSApplication.java,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/cobol/EDUCHAN.cbl,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/pom.xml,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/README.md,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/src/main/java/sample/BitLinkServlet.java,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,18,8
+/cicsdev/cics-java-liberty-restapp/blob/main/build.gradle,4,2
+/cicsdev/cics-java-liberty-restapp/actions,2,1
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main,2,1
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main/java/com/ibm/cicsdev/restapp,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/MAINTAINERS.md,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/README.md,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/bean/CICSEnvironment.java,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/InfoResource.java,1,1

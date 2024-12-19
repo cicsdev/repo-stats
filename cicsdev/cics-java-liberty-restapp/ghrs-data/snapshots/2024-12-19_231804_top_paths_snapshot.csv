@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,24,9
+/cicsdev/cics-java-liberty-restapp/actions,5,2
+/cicsdev/cics-java-liberty-restapp/blob/main/build.gradle,3,2
+/cicsdev/cics-java-liberty-restapp/pull/14,3,2
+/cicsdev/cics-java-liberty-restapp/actions/runs/12392866027/job/34592937328,3,1
+/cicsdev/cics-java-liberty-restapp/branches,3,1
+/cicsdev/cics-java-liberty-restapp/tree/piw-githubactions-build,3,1
+/cicsdev/cics-java-liberty-restapp/actions/runs/12392866027/job/34592938110,2,1
+/cicsdev/cics-java-liberty-restapp/actions/runs/12392866027/job/34592938841,2,1
+/cicsdev/cics-java-liberty-restapp/blob/piw-githubactions-build/.github/workflows/main.yml,2,1

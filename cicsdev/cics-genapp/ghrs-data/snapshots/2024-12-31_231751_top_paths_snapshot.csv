@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp,30,21
+/cicsdev/cics-genapp/tree/main/base,22,8
+/cicsdev/cics-genapp/tree/main/base/src,12,6
+/cicsdev/cics-genapp/tree/main,3,3
+/cicsdev/cics-genapp/tree/main/base/bin,3,3
+/cicsdev/cics-genapp/tree/main/base/data,3,3
+/cicsdev/cics-genapp/tree/main/base/event-bindings,3,3
+/cicsdev/cics-genapp/tree/main/base/exec,3,3
+/cicsdev/cics-genapp/blob/main/base/bin/install.sh,2,2
+/cicsdev/cics-genapp/tree/main/base/cntl,2,2

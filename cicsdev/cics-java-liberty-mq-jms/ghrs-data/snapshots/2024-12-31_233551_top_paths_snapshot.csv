@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-mq-jms,13,3
+/cicsdev/cics-java-liberty-mq-jms/tree/piw-repobuild1,10,1
+/cicsdev/cics-java-liberty-mq-jms/branches,6,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main/projects,4,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/projects/com.ibm.cicsdev.mqjms.cf.ear/.project,3,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/projects/com.ibm.cicsdev.mqjms.mdb.ear/.project,3,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main,3,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main/projects/com.ibm.cicsdev.mqjms.cf.ear,3,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main/projects/com.ibm.cicsdev.mqjms.mdb.ear,3,1
+/cicsdev/cics-java-liberty-mq-jms/blob/piw-repobuild1/gradle.properties,2,1

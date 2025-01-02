@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/tree/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi,7,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/tree/main,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/tree/main/src/main,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/Application.java,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/Employee.java,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/EmployeeRestController.java,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/EmployeeService.java,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/ServletInitializer.java,1,1

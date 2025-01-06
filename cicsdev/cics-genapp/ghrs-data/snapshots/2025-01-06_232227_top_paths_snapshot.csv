@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp,11,9
+/cicsdev/cics-genapp/tree/main/base,8,3
+/cicsdev/cics-genapp/tree/main/base/src,5,2
+/cicsdev/cics-genapp/tree/main,3,3
+/cicsdev/cics-genapp/blob/main/base/src/lgacvs01.cbl,2,1
+/cicsdev/cics-genapp/blob/main/base/event-bindings/Transaction_Counters.evbind,1,1
+/cicsdev/cics-genapp/blob/main/base/images/initial_topology.jpg,1,1
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb02.cbl,1,1
+/cicsdev/cics-genapp/blob/main/base/src/lgtestc1.cbl,1,1
+/cicsdev/cics-genapp/blob/main/base/src/README.md,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-redbooks,3,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/WEBHOME.cbl,2,1
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking,2,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/build/classes/banking/BankAccounts.class,1,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/build/classes/banking/CustomerAccounts.class,1,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/src/banking/BankAccounts.java,1,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/src/banking/CustomerAccounts.java,1,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/WebContent/CustomerAccounts.jsp,1,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/WebContent/META-INF/MANIFEST.MF,1,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AsyncRedbooksWebBankingBundle/ACUR.transaction,1,1

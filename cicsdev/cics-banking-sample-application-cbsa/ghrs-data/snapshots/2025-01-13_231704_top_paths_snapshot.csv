@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,36,18
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,12,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/dca65e3b30befbcdb7f5af063e50d2dae4742d15/src,10,1
+/cicsdev/cics-banking-sample-application-cbsa/tree/dca65e3b30befbcdb7f5af063e50d2dae4742d15/src/Z-OS-Connect-Payment-Interface,7,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/dca65e3b30befbcdb7f5af063e50d2dae4742d15,7,1
+/cicsdev/cics-banking-sample-application-cbsa/tree/dca65e3b30befbcdb7f5af063e50d2dae4742d15/src/webui,7,1
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,6,4
+/cicsdev/cics-banking-sample-application-cbsa/blob/dca65e3b30befbcdb7f5af063e50d2dae4742d15/src/bank-application-frontend/LICENSE,6,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/dca65e3b30befbcdb7f5af063e50d2dae4742d15/src/webui/pom.xml,6,1
+/cicsdev/cics-banking-sample-application-cbsa/security/dependabot,5,2

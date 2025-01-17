@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,9,6
+/cicsdev/cics-java-jcicsx-samples/blob/main/char-link-program-sample/src/main/java/sample/CharLinkServlet.java,7,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/char-link-program-sample/src/main/cobol/EDUCHAN.cbl,3,1
+/cicsdev/cics-java-jcicsx-samples/network/dependencies,3,1
+/cicsdev/cics-java-jcicsx-samples/tree/main,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/char-link-program-sample/src/main/webapp/index.js,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/InfoResource.java,2,1
+/cicsdev/cics-java-jcicsx-samples/commits/main,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/append-char-container-sample/src/main/java/sample/AppendCharServlet.java,1,1

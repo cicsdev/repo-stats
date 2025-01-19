@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,16,9
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/pom.xml,4,4
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/README.md,4,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/RootController.java,3,2
+/cicsdev/cics-java-liberty-springboot-jcics/pulls,3,1
+/cicsdev/cics-java-liberty-springboot-jcics/tree/piw-gradle-update2,3,1
+/cicsdev/cics-java-liberty-springboot-jcics/actions/workflows/java.yml,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/.project,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/BrowseTSQController.java,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,2,2

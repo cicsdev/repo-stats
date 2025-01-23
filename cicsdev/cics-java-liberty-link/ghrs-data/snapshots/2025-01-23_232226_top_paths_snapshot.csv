@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-link,12,6
+/cicsdev/cics-java-liberty-link/actions,7,3
+/cicsdev/cics-java-liberty-link/actions/runs/12848788111,5,3
+/cicsdev/cics-java-liberty-link/actions/runs/12848788111/job/35826579600,5,2
+/cicsdev/cics-java-liberty-link/blob/main/.github/workflows/java.yaml,4,2
+/cicsdev/cics-java-liberty-link/blob/main/pom.xml,3,2
+/cicsdev/cics-java-liberty-link/tree/main/.github/workflows,3,2
+/cicsdev/cics-java-liberty-link/actions/runs/12848788111/job/35826579473,3,1
+/cicsdev/cics-java-liberty-link/pull/7,3,1
+/cicsdev/cics-java-liberty-link/actions/runs/12858685517,2,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/java/com/ibm/cicsdev/eventprocessing/EventEmitter.java,23,2
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/java/com/ibm/cicsdev/eventprocessing/EventConsumer.java,15,2
+/cicsdev/cics-eventprocessing-java,8,5
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/ACCOUNTADAPTER.epadapter,4,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/EVNT.transaction,3,1
+/cicsdev/cics-eventprocessing-java/blob/main/etc/liberty/server.xml,2,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/ACCOUNT.evbind,1,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/build.gradle,1,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/.classpath,1,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/.project,1,1

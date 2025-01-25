@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,6,6
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,5,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/pom.xml,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/InfoTSQController.java,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/Application.java,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/RootController.java,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/ServletInitializer.java,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/pull/14/files/9738a8141526173aa412b923856542337451cb06..cc54c0847a70c7f8bf5d80b0f650f2152aaac0cb,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/gradle/wrapper,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer/blob/main/README.md,4,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y/Emit.java,3,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y/web/Event.java,3,1
+/cicsdev/cics-event-consumer/blob/main/examples/ca1y.sh,3,1
+/cicsdev/cics-event-consumer/blob/main/examples/emailServer.properties,3,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-bundle/pom.xml,2,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y/web/EventConfig.java,2,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/src/main/resources/com/ibm/cics/ca1y/messages.properties,2,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/WebContent/WEB-INF/ibm-web-ext.xml,2,1
+/cicsdev/cics-event-consumer/blob/main/docs/saxon-and-apache-fop.md,2,1

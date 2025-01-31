@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,14,5
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/LICENSE,5,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,5,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,4,3
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseService.java,4,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/employee/Employee.java,4,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseService.java,3,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseServlet.java,3,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5/cics-java-liberty-jdbc-web,3,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-bundle,2,2

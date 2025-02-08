@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,7,2
+/cicsdev/cics-security-sdv-samples/tree/main/.github,6,1
+/cicsdev/cics-security-sdv-samples/pulls,3,1
+/cicsdev/cics-security-sdv-samples/tree/main/.github/workflows,2,1
+/cicsdev/cics-security-sdv-samples/blob/2000b8d2f2ed58738915618937405e145b12467f/lib/actions/appTestPrAction.js,1,1
+/cicsdev/cics-security-sdv-samples/blob/2000b8d2f2ed58738915618937405e145b12467f/lib/actions/securityPrAction.js,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/.secrets.baseline,1,1
+/cicsdev/cics-security-sdv-samples/network/dependencies,1,1
+/cicsdev/cics-security-sdv-samples/tree/main,1,1
+/cicsdev/cics-security-sdv-samples/tree/main/lib,1,1

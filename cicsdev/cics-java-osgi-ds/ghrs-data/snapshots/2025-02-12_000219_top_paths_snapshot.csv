@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0,11,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects,9,2
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/META-INF,5,1
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/src/com/ibm/cicsdev/osgi/ds/cicsapp/CICSApp.java,4,2
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/META-INF/MANIFEST.MF,4,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp.bundle_1.0.0,4,1
+/cicsdev/cics-java-osgi-ds/tree/main,3,2
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/OSGI-INF/com.ibm.cicsdev.osgi.ds.cicsapp.CICSApp.xml,2,1
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.storage.impl_1.1.0/OSGI-INF/com.ibm.cicsdev.osgi.ds.storage.impl.TSQStorage.xml,2,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/OSGI-INF,2,1

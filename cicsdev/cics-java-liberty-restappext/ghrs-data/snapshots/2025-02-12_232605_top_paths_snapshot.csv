@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,10,6
+/cicsdev/cics-java-liberty-restappext/blob/2bd1490b83c5085f89bd693261a3288b7b422c3b/src/cobol/ADDPART.cbl,2,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/ADDPART.cbl,2,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/STOKPART.cpy,2,1
+/cicsdev/cics-java-liberty-restappext/tree/main,2,1
+/cicsdev/cics-java-liberty-restappext/blob/2bd1490b83c5085f89bd693261a3288b7b422c3b/src/cobol/STOKPART.cpy,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/GETPART.cbl,1,1
+/cicsdev/cics-java-liberty-restappext/pulls,1,1
+/cicsdev/cics-java-liberty-restappext/tree/main/src,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,7,7
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,6,3
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main,4,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/pom.xml,4,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/Application.java,3,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/BrowseTSQController.java,3,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/RootController.java,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/ServletInitializer.java,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/pull/13/files/5a6d4555ddaa285e79de105526610f74de4de188..6ae54493e6a1310ad2fd7a72454a34f971e97298,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/InfoTSQController.java,1,1

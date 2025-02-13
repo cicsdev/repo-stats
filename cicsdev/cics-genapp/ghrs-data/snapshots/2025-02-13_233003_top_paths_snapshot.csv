@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp,99,62
+/cicsdev/cics-genapp/tree/main/base,56,36
+/cicsdev/cics-genapp/tree/main,32,9
+/cicsdev/cics-genapp/tree/main/base/src,31,21
+/cicsdev/cics-genapp/blob/main/base/src/lgtestc1.cbl,22,8
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb01.cbl,19,10
+/cicsdev/cics-genapp/blob/main/base/src/lgicus01.cbl,11,7
+/cicsdev/cics-genapp/blob/main/base/src/lgacus01.cbl,11,6
+/cicsdev/cics-genapp/tree/main/base/cntl,10,7
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb02.cbl,10,6

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,8,6
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/CICSApplication.java,3,3
+/cicsdev/cics-java-liberty-restappext/tree/main/src,3,2
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main/java/com/ibm/cicsdev/restappext,3,2
+/cicsdev/cics-java-liberty-restappext/tree/main,3,1
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main,2,2
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main/java/com/ibm/cicsdev/restappext/bean,2,2
+/cicsdev/cics-java-liberty-restappext/blob/2bd1490b83c5085f89bd693261a3288b7b422c3b/src/main/java/com/ibm/cicsdev/restappext/CICSApplication.java,1,1
+/cicsdev/cics-java-liberty-restappext/blob/2bd1490b83c5085f89bd693261a3288b7b422c3b/src/main/java/com/ibm/cicsdev/restappext/LinkToLiberty.java,1,1
+/cicsdev/cics-java-liberty-restappext/blob/2bd1490b83c5085f89bd693261a3288b7b422c3b/src/main/java/com/ibm/cicsdev/restappext/VsamKsdsFileResource.java,1,1

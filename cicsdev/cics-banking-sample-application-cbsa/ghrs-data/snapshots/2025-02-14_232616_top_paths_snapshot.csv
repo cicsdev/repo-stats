@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,103,54
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/CBSA_base_cobol_installation_instructions.md,47,16
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,30,16
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,24,7
+/cicsdev/cics-banking-sample-application-cbsa/pull/22,21,5
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/Z-OS-Connect-Customer-Services-Interface/src/main/java/com/ibm/cics/cip/bank/springboot/customerservices/OutputFormatUtils.java,18,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,17,8
+/cicsdev/cics-banking-sample-application-cbsa/security/dependabot,11,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/installjcl/BANK.csd,10,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,9,8

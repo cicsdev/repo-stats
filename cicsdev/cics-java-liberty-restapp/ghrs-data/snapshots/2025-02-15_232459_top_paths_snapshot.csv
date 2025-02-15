@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,12,11
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main/java/com/ibm/cicsdev/restapp,12,4
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main/java/com/ibm/cicsdev/restapp/bean,8,1
+/cicsdev/cics-java-liberty-restapp/blob/main/pom.xml,6,6
+/cicsdev/cics-java-liberty-restapp/tree/main/src,6,4
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/ReverseResource.java,6,3
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main,6,3
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/InfoResource.java,5,4
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/bean/ReverseResult.java,5,1
+/cicsdev/cics-java-liberty-restapp/tree/main/src/main/webapp/WEB-INF,4,2

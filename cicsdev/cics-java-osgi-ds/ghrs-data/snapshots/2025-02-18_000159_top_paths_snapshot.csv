@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0,11,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects,7,2
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/META-INF,5,1
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/META-INF/MANIFEST.MF,4,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp.bundle_1.0.0,4,1
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/src/com/ibm/cicsdev/osgi/ds/cicsapp/CICSApp.java,3,2
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/OSGI-INF/com.ibm.cicsdev.osgi.ds.cicsapp.CICSApp.xml,2,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/OSGI-INF,2,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/src/com/ibm/cicsdev/osgi/ds/cicsapp,2,1
+/cicsdev/cics-java-osgi-ds,1,1

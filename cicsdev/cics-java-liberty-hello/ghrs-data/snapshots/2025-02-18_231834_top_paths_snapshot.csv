@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-hello,14,3
+/cicsdev/cics-java-liberty-hello/pulls,5,2
+/cicsdev/cics-java-liberty-hello/pull/1,5,1
+/cicsdev/cics-java-liberty-hello/blob/main/pom.xml,4,2
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-bundle/pom.xml,3,2
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-web/pom.xml,2,1
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-web/src/main/webapp/WEB-INF/web.xml,2,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web,2,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web/src/main/webapp,2,1
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-bundle/build.gradle,1,1

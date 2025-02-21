@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-ejb/tree/main/projects,8,3
+/cicsdev/cics-java-liberty-ejb,6,5
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.app,3,2
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.bundle,3,2
+/cicsdev/cics-java-liberty-ejb/tree/main/etc/config,2,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.shop.web,2,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.shop.web/src/com/ibm/cicsdev/ejb/shop/web,2,1
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.stock.web/src/com/ibm/cicsdev/ejb/stock/web,2,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb/ejbModule/com/ibm/cicsdev/ejb/Item.java,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.shop.web/src/com/ibm/cicsdev/ejb/shop/web/Cart.java,1,1

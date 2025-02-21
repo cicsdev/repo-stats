@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,11,4
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,6,3
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/etc/config/liberty,3,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/liberty/db2/type4.xml,2,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseServlet.java,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/.github/workflows/java.yaml,2,1
+/cicsdev/cics-java-liberty-jdbc/branches,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/.github/workflows,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/main,2,1

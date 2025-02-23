@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-app-deployment/blob/main/src/COBOL/WLPCTRLW.cbl,6,3
+/cicsdev/cics-java-liberty-app-deployment/tree/main/src/COBOL,2,2
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/com.ibm.cicsdev.jmx.httpendpoint.controller.warbundle,2,1
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/resume_liberty_httpendpoint.policy,2,1
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/WLPC.transaction,2,1
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/WLPCTRLW.program,2,1
+/cicsdev/cics-java-liberty-app-deployment,1,1
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/WebContent/META-INF/MANIFEST.MF,1,1
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/WebContent/WEB-INF/lib/com.ibm.cicsdev.jmx.datastructures.jar,1,1
+/cicsdev/cics-java-liberty-app-deployment/blob/main/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle/.project,1,1

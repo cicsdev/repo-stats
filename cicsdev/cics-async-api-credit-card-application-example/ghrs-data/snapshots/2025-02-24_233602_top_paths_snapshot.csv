@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/etc/CICS_bundles/cics-async-creditcardapplication-webservices/ASYNCPN1.urimap,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/etc/CICS_bundles/cics-async-creditcardapplication-webservices/.project,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/etc/CICS_bundles/cics-async-creditcardapplication-webservices/SEQPNT.webservice,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/doc/credit%20card%20application%20architecture.png,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/basicsoap11provider.xml,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/HTTPWS.tcpipservice,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/.settings/org.eclipse.core.resources.prefs,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/SOAPPROV.pipeline,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/CSSTATUS.program,1,1

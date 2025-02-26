@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-sqlj,3,1
+/cicsdev/cics-java-liberty-sqlj/tree/main/projects,3,1
+/cicsdev/cics-java-liberty-sqlj/blob/main/etc/config/type-2-server.xml,2,2
+/cicsdev/cics-java-liberty-sqlj/blob/main/projects/com.ibm.cicsdev.sqlj.web.cicsbundle/com.ibm.cicsdev.sqlj.web.warbundle,2,1
+/cicsdev/cics-java-liberty-sqlj/blob/main/projects/com.ibm.cicsdev.sqlj.web/src/com/ibm/cicsdev/sqlj/DoSQLJ.sqlj,2,1
+/cicsdev/cics-java-liberty-sqlj/blob/main/projects/com.ibm.cicsdev.sqlj.web/src/com/ibm/cicsdev/sqlj/SimpleSQLJServlet.java,2,1
+/cicsdev/cics-java-liberty-sqlj/tree/main/projects/com.ibm.cicsdev.sqlj.web,2,1
+/cicsdev/cics-java-liberty-sqlj/tree/main/projects/com.ibm.cicsdev.sqlj.web.cicsbundle,2,1
+/cicsdev/cics-java-liberty-sqlj/tree/main/projects/com.ibm.cicsdev.sqlj.web.cicsbundle/META-INF,2,1
+/cicsdev/cics-java-liberty-sqlj/tree/main/projects/com.ibm.cicsdev.sqlj.web/src/com/ibm/cicsdev/sqlj,2,1

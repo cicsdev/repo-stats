@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-link,28,10
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1,14,5
+/cicsdev/cics-java-osgi-link/tree/cicsts/v5.5,5,3
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsmainclass/CommareaLinkProgram.java,4,3
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsmainclass/CommareaTargetProgram.java,4,3
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1/cics-java-osgi-link-app,4,3
+/cicsdev/cics-java-osgi-link/blob/cicsts/v5.5/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsmainclass/ChannelTargetProgram.java,3,2
+/cicsdev/cics-java-osgi-link/blob/cicsts/v5.5/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsmainclass/CommareaLinkProgram.java,3,2
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsprogram/ChannelTargetCICSProgram.java,3,2
+/cicsdev/cics-java-osgi-link/pull/4/files,3,1

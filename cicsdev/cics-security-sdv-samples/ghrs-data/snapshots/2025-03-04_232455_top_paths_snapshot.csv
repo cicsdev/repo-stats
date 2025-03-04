@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,7,5
+/cicsdev/cics-security-sdv-samples/pull/18,4,3
+/cicsdev/cics-security-sdv-samples/actions,2,1
+/cicsdev/cics-security-sdv-samples/blob/53075ac15ede6ee7ad83f5538d6a9b66839deb1c/.devcontainer/initialise_dev_container.sh,2,1
+/cicsdev/cics-security-sdv-samples/pulls,2,1
+/cicsdev/cics-security-sdv-samples/security/dependabot,2,1
+/cicsdev/cics-security-sdv-samples/actions/workflows/dependabot/dependabot-updates,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/.github/dependabot.yml,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/.github/workflows/continuous-integration.yml,1,1
+/cicsdev/cics-security-sdv-samples/pull/18/files,1,1

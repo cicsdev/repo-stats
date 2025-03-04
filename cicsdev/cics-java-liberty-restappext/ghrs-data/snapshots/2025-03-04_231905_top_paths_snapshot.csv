@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,8,7
+/cicsdev/cics-java-liberty-restappext/tree/main/src,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/etc/DFHCSD.txt,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/lib/cics-java-liberty-restappext-generated.jar,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/RunningLinkToLiberty.md,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/ADDPART.cbl,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/ADDPARTC.cbl,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/GETPART.cbl,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/GETSUPPL.cbl,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/cobol/LINK2SEC.cbl,1,1

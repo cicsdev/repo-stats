@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,12,4
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,6,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,4,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-bundle/pom.xml,2,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5/cics-java-liberty-jdbc-bundle,2,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/.github/workflows/java.yaml,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/main/README.md,2,1
+/cicsdev/cics-java-liberty-jdbc/branches,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/.github/workflows,2,1

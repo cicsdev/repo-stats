@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-employee-db,2,2
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/Liberty/type-2-server.xml,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/RDO/DFHCSD.txt,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle/employee.jdbc.web.warbundle,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle/META-INF/cics.xml,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/WebContent/build.properties,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/etc,1,1

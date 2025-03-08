@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,15,13
+/cicsdev/cics-java-jcicsx-samples/tree/main/mockito-testing-containers-sample,11,5
+/cicsdev/cics-java-jcicsx-samples/tree/main/append-char-container-sample,7,5
+/cicsdev/cics-java-jcicsx-samples/tree/main,6,5
+/cicsdev/cics-java-jcicsx-samples/tree/main/mockito-testing-containers-sample/src,6,4
+/cicsdev/cics-java-jcicsx-samples/blob/main/mockito-testing-containers-sample/src/test/java/mockitotests/CurrencyConverterTest.java,5,4
+/cicsdev/cics-java-jcicsx-samples/tree/main/mockito-testing-containers-sample/src/test/java/mockitotests,5,4
+/cicsdev/cics-java-jcicsx-samples/blob/main/append-char-container-sample/src/main/java/sample/AppendCharServlet.java,4,4
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,4,4
+/cicsdev/cics-java-jcicsx-samples/tree/main/append-char-container-sample/src/main,4,4

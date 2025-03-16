@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,13,10
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/src,8,7
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/doc,6,4
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/ASYNCPNT.cbl,6,3
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles,4,4
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline,3,3
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/CRDTCHK.cbl,3,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/doc/Async%20vs%20Sequential%20processing.md,2,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/doc/credit%20card%20application%20architecture.png,2,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/CSSTATUS.cbl,2,2

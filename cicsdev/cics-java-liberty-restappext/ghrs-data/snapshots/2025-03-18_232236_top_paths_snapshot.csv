@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,13,10
+/cicsdev/cics-java-liberty-restappext/tree/main/src,5,2
+/cicsdev/cics-java-liberty-restappext/tree/main/src/cobol,5,1
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main,4,2
+/cicsdev/cics-java-liberty-restappext/blob/main/README.md,3,2
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main/java/com/ibm/cicsdev/restappext,3,2
+/cicsdev/cics-java-liberty-restappext/blob/main/etc/DFHCSD.txt,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/CICSApplication.java,2,2
+/cicsdev/cics-java-liberty-restappext/blob/a3c9828017f3061bd06bf04531c7a862feaf2ffe/GettingStarted.md,2,1
+/cicsdev/cics-java-liberty-restappext/blob/main/GettingStarted.md,2,1

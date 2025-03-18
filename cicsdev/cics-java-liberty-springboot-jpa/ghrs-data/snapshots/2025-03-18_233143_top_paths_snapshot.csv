@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main,6,2
+/cicsdev/cics-java-liberty-springboot-jpa,2,2
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main/java/com/ibm/cicsdev/springboot/jpa,2,2
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main/resources,2,2
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/webapp/WEB-INF/web.xml,2,1
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main,2,1
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main/webapp/WEB-INF,2,1
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/settings.gradle,1,1
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/java/com/ibm/cicsdev/springboot/jpa/Emp.java,1,1
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/java/com/ibm/cicsdev/springboot/jpa/EmployeeRepository.java,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTServerAuthContext.java,4,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTServerAuthConfig.java,3,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTAuthConfigProvider.java,2,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTJaspiProviderService.java,2,1
+/cicsdev/cics-java-liberty-jaspic-jwt,1,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt-feature/OSGI-INF/SUBSYSTEM.MF,1,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt-feature/.settings/org.eclipse.core.resources.prefs,1,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt-feature/.settings/org.eclipse.wst.common.component,1,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt-feature/.settings/org.eclipse.wst.common.project.facet.core.xml,1,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTServerAuthModule.java,1,1

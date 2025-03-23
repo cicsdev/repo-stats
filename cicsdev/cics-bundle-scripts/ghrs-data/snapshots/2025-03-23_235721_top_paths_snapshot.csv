@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-bundle-scripts,2,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/validatecicsbundle,2,1
+/cicsdev/cics-bundle-scripts/tree/main/addtocicsbundle,2,1
+/cicsdev/cics-bundle-scripts/blob/main/pushcicsbundletoucd/pushcicsbundletoucd,1,1
+/cicsdev/cics-bundle-scripts/blob/main/README.md,1,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/catalog.example.service/DFH0XCMN.wsdl,1,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/catalog.example.service/EXINQCSW.urimap,1,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/README.md,1,1
+/cicsdev/cics-bundle-scripts/commit/93b21d066b70cf875e1e66b49ff17fa9169d9db3,1,1
+/cicsdev/cics-bundle-scripts/tree/main/pushcicsbundletoucd,1,1

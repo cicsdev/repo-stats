@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-employee-db,2,2
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/beans/Employee.java,2,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle/employee.jdbc.web.warbundle,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.cicsbundle,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/beans,1,1

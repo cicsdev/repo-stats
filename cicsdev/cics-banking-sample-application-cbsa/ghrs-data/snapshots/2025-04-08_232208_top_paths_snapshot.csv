@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,109,53
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,53,28
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,40,22
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,23,12
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,16,11
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/bms_src/BNK1ACC.bms,15,8
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/bms_src/BNK1MAI.bms,15,8
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Customer-Services-Interface,14,10
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/bms_src,13,11
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/README.md,12,9

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-link,4,2
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1,4,2
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1/cics-java-osgi-link-bundle,3,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-bundle/build.gradle,2,1
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1/cics-java-osgi-link-app,2,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/build.gradle,1,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/resources/META-INF/MANIFEST.MF,1,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-bundle/pom.xml,1,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/etc/DFHCSD.txt,1,1
+/cicsdev/cics-java-osgi-link/security/dependabot,1,1

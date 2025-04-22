@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,5,5
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main,5,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp,4,1
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp,3,3
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/src/main/java/sample/BitLinkServlet.java,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/InfoResource.java,2,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/cobol,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/ReverseResource.java,2,1
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/bean,2,1

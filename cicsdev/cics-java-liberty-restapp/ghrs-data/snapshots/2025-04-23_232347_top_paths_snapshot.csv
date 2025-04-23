@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,21,9
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/InfoResource.java,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/webapp/WEB-INF/ibm-web-ext.xml,1,1

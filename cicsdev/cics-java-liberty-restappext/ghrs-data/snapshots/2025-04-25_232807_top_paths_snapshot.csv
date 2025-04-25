@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,9,6
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/CICSApplication.java,3,2
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/webapp/WEB-INF/ibm-web-ext.xml,3,2
+/cicsdev/cics-java-liberty-restappext/tree/main/src,3,2
+/cicsdev/cics-java-liberty-restappext/blob/main/etc/DFHCSD.txt,2,2
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main,2,1
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main/java/com/ibm/cicsdev/restappext,2,1
+/cicsdev/cics-java-liberty-restappext/blob/main/etc/DEFVSAM.jcl,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/GettingStarted.md,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/lib/cics-java-liberty-restappext-generated.jar,1,1

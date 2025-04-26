@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,12,9
+/cicsdev/cics-java-liberty-restappext/tree/main/src,6,4
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/CICSApplication.java,4,3
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/webapp/WEB-INF/ibm-web-ext.xml,4,3
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main,4,3
+/cicsdev/cics-java-liberty-restappext/blob/main/etc/DFHCSD.txt,3,3
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main/java/com/ibm/cicsdev/restappext,3,2
+/cicsdev/cics-java-liberty-restappext/blob/main/etc/DEFVSAM.jcl,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/pom.xml,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/LinkChannelResource.java,2,2

@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-redbooks,5,4
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking,3,3
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServicesBundle/META-INF/cics.xml,1,1

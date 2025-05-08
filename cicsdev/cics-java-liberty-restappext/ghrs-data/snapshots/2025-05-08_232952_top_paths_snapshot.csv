@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,9,9
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/CICSApplication.java,7,5
+/cicsdev/cics-java-liberty-restappext/tree/main/src,6,4
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/LinkChannelResource.java,4,4
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main,4,4
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/LinkToLiberty.java,3,3
+/cicsdev/cics-java-liberty-restappext/tree/main/src/main/java/com/ibm/cicsdev/restappext,3,3
+/cicsdev/cics-java-liberty-restappext/blob/main/pom.xml,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/TemporaryStorageResource.java,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/webapp/WEB-INF/ibm-web-ext.xml,2,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restappext,4,4
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/CICSApplication.java,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/LinkChannelResource.java,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/LinkToLiberty.java,2,2
+/cicsdev/cics-java-liberty-restappext/blob/main/build.gradle,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/gradle/wrapper/gradle-wrapper.properties,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/bean/StatusBean.java,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/helper/StockPartHelper.java,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/LinkToSecurity.java,1,1
+/cicsdev/cics-java-liberty-restappext/blob/main/src/main/java/com/ibm/cicsdev/restappext/LinkToTransaction.java,1,1

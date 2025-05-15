@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-link,24,15
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link/HelloLiberty.java,9,8
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app,5,5
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app/src/main,5,4
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link,4,4
+/cicsdev/cics-java-liberty-link/blob/main/etc/config/liberty/server.xml,3,3
+/cicsdev/cics-java-liberty-link/tree/IDH-TEST,3,3
+/cicsdev/cics-java-liberty-link/commit/752a6cf960d7b7fc42817bfee7c82211e79474f0,3,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/pom.xml,2,2
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-bundle/src/main/bundleParts/WLPH.transaction,2,2

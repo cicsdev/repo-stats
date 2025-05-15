@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer,6,4
+/cicsdev/cics-event-consumer/tree/main/docs,4,1
+/cicsdev/cics-event-consumer/tree/main/cics-event-consumer-ca1y,3,1
+/cicsdev/cics-event-consumer/tree/main/examples,3,1
+/cicsdev/cics-event-consumer/blob/main/docs/general.md,2,1
+/cicsdev/cics-event-consumer/blob/main/docs/send-an-email-using-an-event-adapter.md,2,1
+/cicsdev/cics-event-consumer/blob/main/docs/troubleshooting.md,2,1
+/cicsdev/cics-event-consumer/blob/main/docs/using-link.md,2,1
+/cicsdev/cics-event-consumer/blob/main/examples/CA1YCOB1.cbl,2,1
+/cicsdev/cics-event-consumer/blob/main/examples/ca1y.sh,2,1

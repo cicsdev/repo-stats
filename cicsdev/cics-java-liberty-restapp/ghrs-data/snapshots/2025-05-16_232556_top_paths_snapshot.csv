@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,11,8
+/cicsdev/cics-java-liberty-restapp/blob/main/src/cobol/EDUCHAN.cbl,3,3
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/main/java/com/ibm/cicsdev/restapp/InfoResource.java,2,2
+/cicsdev/cics-java-liberty-restapp/tree/main,2,2
+/cicsdev/cics-java-liberty-restapp/tree/main/src,2,2
+/cicsdev/cics-java-liberty-restapp/tree/main/src/cobol,2,2
+/cicsdev/cics-java-liberty-restapp/issues/9,2,1
+/cicsdev/cics-java-liberty-restapp/tree/main/.mvn/wrapper,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/etc/DFHCSD.txt,1,1

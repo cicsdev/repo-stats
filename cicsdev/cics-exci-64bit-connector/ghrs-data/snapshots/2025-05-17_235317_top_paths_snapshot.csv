@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-exci-64bit-connector,6,4
+/cicsdev/cics-exci-64bit-connector/blob/main/build.sh,2,2
+/cicsdev/cics-exci-64bit-connector/blob/main/README.md,2,2
+/cicsdev/cics-exci-64bit-connector/blob/main/Makefile,2,1
+/cicsdev/cics-exci-64bit-connector/blob/main/src/entry.c,2,1
+/cicsdev/cics-exci-64bit-connector/blob/main/src/glue.s,2,1
+/cicsdev/cics-exci-64bit-connector/blob/main/src/exci.c,1,1
+/cicsdev/cics-exci-64bit-connector/blob/main/testProgram.c,1,1

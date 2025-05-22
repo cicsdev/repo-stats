@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-hello,4,3
+/cicsdev/cics-java-liberty-hello/compare/main...jt-nti:cics-java-liberty-hello:dev-container,2,1
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-bundle/pom.xml,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-web/pom.xml,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-hello/issues,1,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-bundle,1,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web,1,1

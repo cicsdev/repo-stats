@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-mq-jms,13,9
+/cicsdev/cics-java-liberty-mq-jms/blob/main/etc/server.xml,4,4
+/cicsdev/cics-java-liberty-mq-jms/blob/main/README.md,2,2
+/cicsdev/cics-java-liberty-mq-jms/tree/main/projects,2,2
+/cicsdev/cics-java-liberty-mq-jms/tree/aj-repobuild,2,1
+/cicsdev/cics-java-liberty-mq-jms/tree/aj-repobuild/cics-java-liberty-mqjms-mdb,2,1
+/cicsdev/cics-java-liberty-mq-jms/blob/aj-repobuild/cics-java-liberty-mqjms-mdb/src/main/java/com/ibm/cicsdev/mqjms/mdb/MySimpleMDB.java,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/aj-repobuild/cics-java-liberty-mqjms-web/src/main/java/com/ibm/cicsdev/mqjms/cf/web/MQJMSDemo.java,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/projects/com.ibm.cicsdev.mqjms.cf.web/src/com/ibm/cicsdev/mqjms/cf/web/MQJMSDemo.java,1,1
+/cicsdev/cics-java-liberty-mq-jms/tree/aj-repobuild/cics-java-liberty-mqjms-web,1,1

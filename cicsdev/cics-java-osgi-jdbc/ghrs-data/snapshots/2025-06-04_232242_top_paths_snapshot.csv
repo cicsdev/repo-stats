@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-jdbc,11,3
+/cicsdev/cics-java-osgi-jdbc/pull/23,8,2
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.jdbc.bundle/cics-java-osgi-jdbc-app.osgibundle,7,1
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1,6,2
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1/cics-java-osgi-jdbc-app,4,2
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.jdbc.bundle/META-INF/cics.xml,4,1
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/cics-java-osgi-jdbc-app/src/main/java/com/ibm/cicsdev/java/osgi/jdbc/JDBCQueryProgram.java,3,2
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1/cics-java-osgi-jdbc-app/src/main/java/com/ibm/cicsdev/java/osgi/jdbc,3,2
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/README.md,3,1
+/cicsdev/cics-java-osgi-jdbc/branches,3,1

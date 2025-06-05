@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp,150,83
+/cicsdev/cics-genapp/tree/main/base,81,50
+/cicsdev/cics-genapp/tree/main/base/src,49,33
+/cicsdev/cics-genapp/blob/main/base/src/lgapdb01.cbl,26,10
+/cicsdev/cics-genapp/blob/main/base/Reference.md,22,11
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb01.cbl,19,11
+/cicsdev/cics-genapp/blob/main/base/Installation.md,19,10
+/cicsdev/cics-genapp/blob/main/base/Architecture.md,18,13
+/cicsdev/cics-genapp/blob/main/base/Building.md,17,10
+/cicsdev/cics-genapp/tree/main,16,12

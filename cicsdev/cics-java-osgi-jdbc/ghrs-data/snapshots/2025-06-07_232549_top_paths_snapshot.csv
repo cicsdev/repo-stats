@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-jdbc,10,3
+/cicsdev/cics-java-osgi-jdbc/pull/23,8,2
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1,4,2
+/cicsdev/cics-java-osgi-jdbc/branches,3,1
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1/cics-java-osgi-jdbc-app,2,2
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1/cics-java-osgi-jdbc-app/src/main/java/com/ibm/cicsdev/java/osgi/jdbc,2,2
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v5.5/MAINTAINERS.md,2,1
+/cicsdev/cics-java-osgi-jdbc/branches/stale,2,1
+/cicsdev/cics-java-osgi-jdbc/pulls,2,1
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/cics-java-osgi-jdbc-app/build.gradle,1,1

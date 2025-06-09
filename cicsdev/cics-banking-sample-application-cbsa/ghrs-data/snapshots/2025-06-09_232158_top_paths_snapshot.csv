@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,110,64
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/README.md,35,17
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,34,21
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,24,15
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,18,12
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/doc,13,10
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,11,8
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/doc/CBSA_Architecture_guide.md,11,7
+/cicsdev/cics-banking-sample-application-cbsa/issues,10,5
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/zosconnectserver/server.xml,9,6

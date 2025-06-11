@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,24,8
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,22,8
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web,15,2
+/cicsdev/cics-java-liberty-jdbc/pull/22,10,3
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseService.java,9,3
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/README.md,9,2
+/cicsdev/cics-java-liberty-jdbc/pull/21,6,2
+/cicsdev/cics-java-liberty-jdbc/pulls,6,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-bundle,5,4
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,5,3

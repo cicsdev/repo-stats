@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp,115,68
+/cicsdev/cics-genapp/tree/main/base,59,41
+/cicsdev/cics-genapp/tree/main/base/src,39,28
+/cicsdev/cics-genapp/blob/main/base/src/lgapdb01.cbl,24,9
+/cicsdev/cics-genapp/tree/main,17,14
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb01.cbl,13,9
+/cicsdev/cics-genapp/blob/main/base/cntl/cobol.jcl,12,4
+/cicsdev/cics-genapp/blob/main/base/Installation.md,11,7
+/cicsdev/cics-genapp/blob/main/base/src/lgcmarea.cpy,11,7
+/cicsdev/cics-genapp/blob/main/base/Architecture.md,9,9

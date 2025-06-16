@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-ejb,10,5
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.shop.web,2,1
+/cicsdev/cics-java-liberty-ejb/blob/main/etc/config/server.xml,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.app,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.app/EarContent/META-INF/application.xml,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.bundle/com.ibm.cicsdev.ejb.app.earbundle,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb/ejbModule/com/ibm/cicsdev/ejb/CartBean.java,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.shop.web/src/com/ibm/cicsdev/ejb/shop/web/Cart.java,1,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.shop.web/src/com/ibm/cicsdev/ejb/shop/web/Catalogue.java,1,1

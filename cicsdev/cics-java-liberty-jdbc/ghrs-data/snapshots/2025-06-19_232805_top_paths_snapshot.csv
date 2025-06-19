@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,30,12
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web,15,3
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,14,7
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseService.java,14,5
+/cicsdev/cics-java-liberty-jdbc/commit/3a25c3be59329163c968eed2e11f75c8d5f4a54d,9,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/.github/workflows/java.yaml,7,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,6,4
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/pom.xml,6,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/liberty/server.xml,6,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5/cics-java-liberty-jdbc-web,6,2

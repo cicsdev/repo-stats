@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-hello,20,4
+/cicsdev/cics-java-osgi-hello/pulls,12,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/cics-java-osgi-hello-app/pom.xml,4,2
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v5.5,3,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/cics-java-osgi-hello-app/build.gradle,2,2
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v6.1/cics-java-osgi-hello-app,2,2
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v5.5/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.hello.bundle/META-INF/cics.xml,2,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.hello.bundle/META-INF/cics.xml,2,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v5.5/.github/workflows/java.yaml,1,1
+/cicsdev/cics-java-osgi-hello/edit/cicsts/v5.5/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.hello.bundle/META-INF/cics.xml,1,1

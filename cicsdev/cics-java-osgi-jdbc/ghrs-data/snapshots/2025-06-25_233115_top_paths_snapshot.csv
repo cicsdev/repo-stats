@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-jdbc,4,1
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1,3,1
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/cics-java-osgi-jdbc-app/build.gradle,2,1
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/pom.xml,2,1
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1/cics-java-osgi-jdbc-app,2,1
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1/etc,2,1
+/cicsdev/cics-java-osgi-jdbc/tree/cicsts/v6.1/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.jdbc.bundle,2,1
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v5.5/etc/eclipse_projects/META-INF/cics.xml,1,1
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v5.5/.github/workflows/java.yml,1,1
+/cicsdev/cics-java-osgi-jdbc/blob/cicsts/v6.1/.github/workflows/java.yml,1,1

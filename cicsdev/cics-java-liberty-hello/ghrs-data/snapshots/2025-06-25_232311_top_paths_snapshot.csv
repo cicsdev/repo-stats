@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-hello,6,3
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web,5,2
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello,2,1
+/cicsdev/cics-java-liberty-hello/blob/main/etc/eclipse_projects/com.ibm.cicsdev.wlp.hello.cicsbundle/META-INF/cics.xml,2,1
+/cicsdev/cics-java-liberty-hello/blob/main/pom.xml,2,1
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-web/pom.xml,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/.github/workflows/java.yaml,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/LICENSE,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/README.md,1,1
+/cicsdev/cics-java-liberty-hello/edit/main/etc/eclipse_projects/com.ibm.cicsdev.wlp.hello.cicsbundle/META-INF/cics.xml,1,1

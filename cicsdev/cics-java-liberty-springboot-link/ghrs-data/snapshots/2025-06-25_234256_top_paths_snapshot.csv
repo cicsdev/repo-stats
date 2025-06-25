@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-link,5,4
+/cicsdev/cics-java-liberty-springboot-link/blob/main/pom.xml,2,2
+/cicsdev/cics-java-liberty-springboot-link/blame/main/build.gradle,1,1
+/cicsdev/cics-java-liberty-springboot-link/blob/main/build.gradle,1,1
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/cics/CICSCallable.java,1,1

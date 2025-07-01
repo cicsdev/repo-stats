@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-link,6,4
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1,6,3
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1/cics-java-osgi-link-app,6,3
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsprogram/ChannelLinkCICSProgram.java,3,2
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsmainclass/CommareaLinkProgram.java,3,1
+/cicsdev/cics-java-osgi-link/tree/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link,3,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsprogram/ChannelTargetCICSProgram.java,2,2
+/cicsdev/cics-java-osgi-link/blob/cicsts/v5.5/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.link.bundle/META-INF/cics.xml,2,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/cics-java-osgi-link-app/src/main/java/com/ibm/cicsdev/java/osgi/link/cicsmainclass/CommareaTargetProgram.java,2,1
+/cicsdev/cics-java-osgi-link/blob/cicsts/v6.1/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.link.bundle/META-INF/cics.xml,2,1

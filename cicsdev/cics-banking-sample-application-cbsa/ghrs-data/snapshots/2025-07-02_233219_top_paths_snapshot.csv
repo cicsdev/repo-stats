@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,101,64
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/README.md,29,16
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,20,14
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/doc/CBSA_Architecture_guide.md,13,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,11,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/doc,11,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,9,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Customer-Services-Interface,9,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc,8,5
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/springBootUI/doc/CBSA_Deploying_the_Payment_Customer_Services_Springboot_apps.md,8,2

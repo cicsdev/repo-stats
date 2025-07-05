@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,3,3
+/cicsdev/cics-security-sdv-samples/blob/main/lib/handlers/handleCompletedCheckRunEvents.js,2,1
+/cicsdev/cics-security-sdv-samples/actions/runs/10948918112/workflow,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/lib/actions/autoMerge.js,1,1
+/cicsdev/cics-security-sdv-samples/tree/5edc031250fb44d0ded9a3ef425e4c6b7d8c4482,1,1
+/cicsdev/cics-security-sdv-samples/tree/main/lib,1,1
+/cicsdev/cics-security-sdv-samples/tree/main/lib/handlers,1,1
+/cicsdev/cics-security-sdv-samples/tree/refs/heads/dependabot/npm_and_yarn/octokit/endpoint-9.0.6,1,1

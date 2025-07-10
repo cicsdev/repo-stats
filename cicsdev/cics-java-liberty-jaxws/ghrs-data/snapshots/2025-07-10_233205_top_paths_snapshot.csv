@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jaxws/blob/main/blog.md,12,2
+/cicsdev/cics-java-liberty-jaxws/tree/main,10,1
+/cicsdev/cics-java-liberty-jaxws/tree/main/com/ibm/cicsdev,10,1
+/cicsdev/cics-java-liberty-jaxws/tree/main/com/ibm/cicsdev/bean,6,1
+/cicsdev/cics-java-liberty-jaxws/tree/main/com/ibm/cicsdev/ws,6,1
+/cicsdev/cics-java-liberty-jaxws/blob/main/com/ibm/cicsdev/ws/MyCICSService.java,5,1
+/cicsdev/cics-java-liberty-jaxws/compare/main...ChrisAtkinson1:cics-java-liberty-jaxws:jakarta,3,1
+/cicsdev/cics-java-liberty-jaxws,2,1
+/cicsdev/cics-java-liberty-jaxws/blob/main/com/ibm/cicsdev/bean/CommareaWrapper.java,2,1
+/cicsdev/cics-java-liberty-jaxws/blob/main/com/ibm/cicsdev/bean/ResponseWrapper.java,2,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,92,68
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,24,19
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/README.md,24,12
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,19,13
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,15,11
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/install/base/installjcl,13,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,10,7
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/doc/CBSA_Architecture_guide.md,9,6
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/bms_src,7,7
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/bms_src/BNK1ACC.bms,7,6

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,5,5
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/BrowseTSQController.java,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/issues,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/MAINTAINERS.md,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/mvnw.cmd,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/.project,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/README.md,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/DeleteTSQController.java,1,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/webapp/WEB-INF/web.xml,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer,5,5
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-bundle/pom.xml,5,1
+/cicsdev/cics-event-consumer/issues/16,4,2
+/cicsdev/cics-event-consumer/blob/main/CHANGELOG.md,4,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-bundle/.gitignore,4,1
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y/XMPP.java,3,2
+/cicsdev/cics-event-consumer/pull/23,3,2
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/pom.xml,3,1
+/cicsdev/cics-event-consumer/blob/main/README.md,3,1
+/cicsdev/cics-event-consumer/tree/main/cics-event-consumer-ca1y,2,2

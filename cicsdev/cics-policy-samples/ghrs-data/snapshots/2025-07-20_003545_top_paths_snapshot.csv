@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-policy-samples,9,5
+/cicsdev/cics-policy-samples/tree/main/bundles,2,2
+/cicsdev/cics-policy-samples/tree/main/bundles/CICSDEV_system_rule,2,2
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/META-INF/cics.xml,1,1
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/mySystemRules.policy,1,1
+/cicsdev/cics-policy-samples/blob/main/bundles/CICSDEV_system_rule/.settings/org.eclipse.core.resources.prefs,1,1
+/cicsdev/cics-policy-samples/graphs/contributors,1,1
+/cicsdev/cics-policy-samples/issues,1,1
+/cicsdev/cics-policy-samples/pulls,1,1
+/cicsdev/cics-policy-samples/pulse,1,1

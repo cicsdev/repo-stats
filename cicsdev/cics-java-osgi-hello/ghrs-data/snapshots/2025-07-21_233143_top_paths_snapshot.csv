@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-hello,9,3
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v6.1,7,3
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v5.5,4,2
+/cicsdev/cics-java-osgi-hello/pulls,4,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/cics-java-osgi-hello-bundle/.project,3,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v5.5/cics-java-osgi-hello-bundle/.project,2,2
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/cics-java-osgi-hello-app/src/main/java/com/ibm/cicsdev/java/osgi/hello/HelloCICSWorld.java,2,2
+/cicsdev/cics-java-osgi-hello/issues,2,2
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v5.5/cics-java-osgi-hello-bundle,2,2
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v6.1/cics-java-osgi-hello-app,2,2

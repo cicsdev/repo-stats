@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer,11,7
+/cicsdev/cics-event-consumer/blob/main/CHANGELOG.md,5,2
+/cicsdev/cics-event-consumer/issues/16,5,2
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-bundle/pom.xml,5,1
+/cicsdev/cics-event-consumer/tree/main/cics-event-consumer-ca1y,4,3
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-bundle/.gitignore,4,1
+/cicsdev/cics-event-consumer/tree/main/cics-event-consumer-ca1y/src/main,3,3
+/cicsdev/cics-event-consumer/tree/main/cics-event-consumer-ca1y/src/main/java/com/ibm,3,3
+/cicsdev/cics-event-consumer/tree/main/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y,3,3
+/cicsdev/cics-event-consumer/blob/main/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y/Email.java,3,2

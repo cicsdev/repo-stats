@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/liberty/server.xml,9,4
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web,7,4
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/liberty/db2/type2.xml,7,3
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseServlet.java,5,3
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/webapp/WEB-INF/web.xml,5,3
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,5,3
+/cicsdev/cics-java-liberty-jdbc,4,4
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main,3,3
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/webapp,3,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/jvmprofile/DFHWLP.jvmprofile,3,1

@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jms,3,3
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/JMSMessageReceiver.java,1,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/JMSMessageSendController.java,1,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/ServletInitializer.java,1,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main,1,1

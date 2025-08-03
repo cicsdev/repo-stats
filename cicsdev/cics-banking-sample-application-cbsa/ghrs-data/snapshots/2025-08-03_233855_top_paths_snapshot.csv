@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,106,64
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,79,33
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,42,16
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/carbonReactUI/doc/CBSA_Carbon_React_UI_installation_deployment_guide.md,34,10
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,28,18
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/README.md,28,12
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/springBootUI/doc/CBSA_Deploying_the_Payment_Customer_Services_Springboot_apps.md,23,6
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,15,13
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/zosconnect_artefacts/apis/creacc/api-docs/swagger.json,15,5
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Customer-Services-Interface,14,9

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-exci-64bit-connector,7,5
+/cicsdev/cics-exci-64bit-connector/blob/main/Cobol/EDUCHAN.cbl,6,3
+/cicsdev/cics-exci-64bit-connector/blob/main/README.md,6,3
+/cicsdev/cics-exci-64bit-connector/blob/main/maclib/CCNZGBL,4,3
+/cicsdev/cics-exci-64bit-connector/blob/main/testProgram.c,4,1
+/cicsdev/cics-exci-64bit-connector/tree/main/maclib,3,3
+/cicsdev/cics-exci-64bit-connector/blob/main/jcl/cobcomp.jcl,3,2
+/cicsdev/cics-exci-64bit-connector/blob/main/maclib/EXCIEPLG,3,2
+/cicsdev/cics-exci-64bit-connector/blob/main/maclib/EXCIPRLG,3,2
+/cicsdev/cics-exci-64bit-connector/tree/main/Cobol,3,2

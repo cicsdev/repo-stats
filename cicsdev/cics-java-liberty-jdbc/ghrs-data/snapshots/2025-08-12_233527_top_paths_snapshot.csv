@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/README.md,6,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseServlet.java,4,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseService.java,3,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/liberty/server.xml,3,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,3,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/etc/config/jvmprofile/DFHWLP.jvmprofile,2,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/etc/eclipse_projects/com.ibm.cicsdev.jdbc.web.cicsbundle/cics-java-liberty-jdbc-web.warbundle,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc/DatabaseServlet.java,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/liberty/db2/type2.xml,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5/cics-java-liberty-jdbc-bundle,2,1

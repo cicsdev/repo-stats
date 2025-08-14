@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,80,51
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,36,22
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/README.md,30,9
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,22,9
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,18,11
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_copy/ABNDINFO.cpy,18,1
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,16,7
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/carbonReactUI/doc/CBSA_Carbon_React_UI_installation_deployment_guide.md,14,8
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/zosconnect_artefacts/apis/creacc/api-docs/swagger.json,13,4
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_copy/SORTCODE.cpy,13,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-employee-db,3,3
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects,2,2
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/beans/Employee.java,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/faces/DatabaseOperationsManager.java,1,1
+/cicsdev/cics-java-liberty-employee-db/commits/main,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/etc,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/beans,1,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/faces,1,1

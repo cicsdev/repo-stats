@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jms,6,5
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/etc/config/liberty/server.xml,1,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/Application.java,1,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/etc/config/liberty,1,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main,1,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main/java/com/ibm/cicsdev/springboot/jms,1,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main/webapp/WEB-INF,1,1

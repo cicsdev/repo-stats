@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp,26,21
+/cicsdev/cics-genapp/tree/main/base,24,10
+/cicsdev/cics-genapp/tree/main/base/src,22,8
+/cicsdev/cics-genapp/blob/main/base/exec/cust1.rexx,8,2
+/cicsdev/cics-genapp/blob/main/base/src/ssmap.bms,7,2
+/cicsdev/cics-genapp/tree/main,6,4
+/cicsdev/cics-genapp/blob/main/base/bin/install.sh,5,3
+/cicsdev/cics-genapp/blob/main/base/src/lgtestp1.cbl,5,2
+/cicsdev/cics-genapp/blob/main/base/Installation.md,3,2
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb01.cbl,3,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,5,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,3,1
+/cicsdev/cics-java-liberty-jdbc/actions/workflows/java.yaml,2,1
+/cicsdev/cics-java-liberty-jdbc/commit/c15df0f056b4812ff54e733df39f7097921aaeb9,2,1
+/cicsdev/cics-java-liberty-jdbc/actions,1,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-bundle/build.gradle,1,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-bundle/pom.xml,1,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-web/build.gradle,1,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/cics-java-liberty-jdbc-web/pom.xml,1,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v5.5/.github/workflows/java.yaml,1,1

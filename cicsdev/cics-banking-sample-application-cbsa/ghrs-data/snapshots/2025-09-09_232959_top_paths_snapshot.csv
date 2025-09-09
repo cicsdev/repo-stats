@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,5,5
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/doc,4,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/doc/images/Architecture,3,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,3,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/buildjcl/BANKDATA.jcl,2,1
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/buildjcl/CICS.jcl,2,1
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/buildjcl/COMPALL.jcl,2,1
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/install,2,1
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/install/base,2,1
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/install/base/aarfiles,2,1

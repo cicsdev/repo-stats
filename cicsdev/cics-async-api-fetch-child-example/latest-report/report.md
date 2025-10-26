@@ -1,5 +1,5 @@
 % Statistics for cicsdev/cics-async-api-fetch-child-example
-% Generated for [cicsdev/cics-async-api-fetch-child-example](https://github.com/cicsdev/cics-async-api-fetch-child-example) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-25 01:08 UTC.
+% Generated for [cicsdev/cics-async-api-fetch-child-example](https://github.com/cicsdev/cics-async-api-fetch-child-example) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-26 00:59 UTC.
 
 
 ## Views
@@ -78,7 +78,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/blob/main/doc/ARTICLE.md`, 02: `/`, 03: `/blob/main/src/ASPARENT.c`, 04: `/tree/main/src`, 05: `/blob/main/doc/diagram.png`, 06: `/tree/main/doc`, 07: `/blob/main/src/ASCHILD.c`, 08: `/issues/1`, 09: `/milestones`, 10: `/blob/main/LICENSE`, 11: `/blob/main/README.md`
+Top 15 paths: 01: `/blob/main/doc/ARTICLE.md`, 02: `/`, 03: `/blob/main/src/ASPARENT.c`, 04: `/tree/main/src`, 05: `/blob/main/doc/diagram.png`, 06: `/tree/main/doc`, 07: `/blob/main/src/ASCHILD.c`, 08: `/blob/main/README.md`, 09: `/issues/1`, 10: `/milestones`, 11: `/blob/main/LICENSE`
 
 
 <script type="text/javascript">

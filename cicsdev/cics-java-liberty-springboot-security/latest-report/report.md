@@ -1,5 +1,5 @@
 % Statistics for cicsdev/cics-java-liberty-springboot-security
-% Generated for [cicsdev/cics-java-liberty-springboot-security](https://github.com/cicsdev/cics-java-liberty-springboot-security) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-11-02 00:26 UTC.
+% Generated for [cicsdev/cics-java-liberty-springboot-security](https://github.com/cicsdev/cics-java-liberty-springboot-security) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-11-03 00:27 UTC.
 
 
 ## Views
@@ -84,7 +84,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `developer.ibm.com`, 04: `
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/blob/main/src/main/webapp/WEB-INF/web.xml`, 02: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/ServletInitializer.java`, 03: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/WebSecureController.java`, 04: `/`, 05: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/Application.java`, 06: `/tree/main/src/main`, 07: `/tree/main/src/main/resources`, 08: `/blob/main/pom.xml`, 09: `/blob/main/README.md`, 10: `/tree/main/src/main/resources/static/css`, 11: `/tree/main/src/main/java`, 12: `/tree/main/src/main/java/com/ibm/cicsdev/springboot/security`, 13: `/tree/main/src/main/resources/templates`, 14: `/blob/main/src/main/resources/application.properties`, 15: `/tree/main/src/main/webapp/WEB-INF`
+Top 15 paths: 01: `/blob/main/src/main/webapp/WEB-INF/web.xml`, 02: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/ServletInitializer.java`, 03: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/WebSecureController.java`, 04: `/`, 05: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/Application.java`, 06: `/tree/main/src/main`, 07: `/tree/main/src/main/resources`, 08: `/blob/main/src/main/resources/application.properties`, 09: `/tree/main/src/main/java/com/ibm/cicsdev/springboot/security`, 10: `/tree/main/src/main/webapp/WEB-INF`, 11: `/tree/main/src/main/resources/static/css`, 12: `/blob/main/README.md`, 13: `/blob/main/pom.xml`, 14: `/tree/main/src/main/resources/templates`, 15: `/tree/main/src/main/java`
 
 
 <script type="text/javascript">

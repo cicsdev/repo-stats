@@ -1,5 +1,5 @@
 % Statistics for cicsdev/cics-async-api-credit-card-application-example
-% Generated for [cicsdev/cics-async-api-credit-card-application-example](https://github.com/cicsdev/cics-async-api-credit-card-application-example) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-11-07 00:36 UTC.
+% Generated for [cicsdev/cics-async-api-credit-card-application-example](https://github.com/cicsdev/cics-async-api-credit-card-application-example) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-11-08 00:34 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `statics.teams.cdn.office.net`, 02: `github.com`, 03: `Goo
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/src`, 03: `/tree/main/etc/CICS_bundles`, 04: `/tree/main/doc`, 05: `/blob/main/src/ASYNCPNT.cbl`, 06: `/blob/main/src/CRDTCHK.cbl`, 07: `/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline`, 08: `/blob/main/src/CSSTATUS.cbl`, 09: `/issues`, 10: `/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/CRDTCHK.program`, 11: `/blob/main/src/GETNAME.cbl`, 12: `/blob/main/src/SEQPNT.cbl`, 13: `/blob/main/src/CSSTATS2.cbl`, 14: `/blob/main/src/UPDCSDB.cbl`, 15: `/tree/main`
+Top 15 paths: 01: `/`, 02: `/tree/main/src`, 03: `/tree/main/etc/CICS_bundles`, 04: `/tree/main/doc`, 05: `/blob/main/src/ASYNCPNT.cbl`, 06: `/blob/main/src/CRDTCHK.cbl`, 07: `/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline`, 08: `/blob/main/doc/Async%20vs%20Sequential%20processing.md`, 09: `/blob/main/src/CSSTATUS.cbl`, 10: `/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/CRDTCHK.program`, 11: `/blob/main/src/CSSTATS2.cbl`, 12: `/blob/main/src/UPDCSDB.cbl`, 13: `/blob/main/src/GETNAME.cbl`, 14: `/tree/main`, 15: `/blob/main/src/SEQPNT.cbl`
 
 
 <script type="text/javascript">

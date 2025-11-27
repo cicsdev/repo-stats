@@ -1,5 +1,5 @@
 % Statistics for cicsdev/cics-java-liberty-springboot-transactions
-% Generated for [cicsdev/cics-java-liberty-springboot-transactions](https://github.com/cicsdev/cics-java-liberty-springboot-transactions) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-11-26 00:31 UTC.
+% Generated for [cicsdev/cics-java-liberty-springboot-transactions](https://github.com/cicsdev/cics-java-liberty-springboot-transactions) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-11-27 00:32 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `Bing`, 04: `ecosia.org`, 
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/blob/main/README.md`, 02: `/`, 03: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactionTemplate.java`, 04: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/TransactionController.java`, 05: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/Application.java`, 06: `/tree/main/src/main`, 07: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/ServletInitializer.java`, 08: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactional.java`, 09: `/tree/main/src/main/java/com/ibm/cicsdev/springboot/transactions`, 10: `/blob/main/MAINTAINERS.md`, 11: `/blob/main/pom.xml`, 12: `/blob/80db811768841306f4d628a84e11966ae0fa0b52/src/main/webapp/WEB-INF/web.xml`, 13: `/blob/main/build.gradle`, 14: `/upload`, 15: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/JEEUserTransaction.java`
+Top 15 paths: 01: `/blob/main/README.md`, 02: `/`, 03: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactionTemplate.java`, 04: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/TransactionController.java`, 05: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/Application.java`, 06: `/tree/main/src/main`, 07: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/ServletInitializer.java`, 08: `/blob/main/MAINTAINERS.md`, 09: `/tree/main/src/main/java/com/ibm/cicsdev/springboot/transactions`, 10: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactional.java`, 11: `/blob/main/pom.xml`, 12: `/tree/main/.github/workflows`, 13: `/blob/main/build.gradle`, 14: `/blob/main/src/main/webapp/WEB-INF/web.xml`, 15: `/tree/main`
 
 
 <script type="text/javascript">

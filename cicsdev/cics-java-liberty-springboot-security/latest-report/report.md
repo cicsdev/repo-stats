@@ -1,5 +1,5 @@
 % Statistics for cicsdev/cics-java-liberty-springboot-security
-% Generated for [cicsdev/cics-java-liberty-springboot-security](https://github.com/cicsdev/cics-java-liberty-springboot-security) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-08 00:41 UTC.
+% Generated for [cicsdev/cics-java-liberty-springboot-security](https://github.com/cicsdev/cics-java-liberty-springboot-security) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-09 00:49 UTC.
 
 
 ## Views
@@ -84,7 +84,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`, 03: `developer.ibm.com`, 04: `
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/blob/main/src/main/webapp/WEB-INF/web.xml`, 02: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/WebSecureController.java`, 03: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/ServletInitializer.java`, 04: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/Application.java`, 05: `/`, 06: `/tree/main/src/main`, 07: `/tree/main/src/main/resources`, 08: `/blob/main/README.md`, 09: `/tree/main/src/main/webapp/WEB-INF`, 10: `/tree/main/src/main/resources/static/css`, 11: `/blob/main/src/main/resources/application.properties`, 12: `/tree/main/src/main/java/com/ibm/cicsdev/springboot/security`, 13: `/tree/main/src/main/java`, 14: `/tree/main/src/main/resources/templates`, 15: `/blob/main/pom.xml`
+Top 15 paths: 01: `/blob/main/src/main/webapp/WEB-INF/web.xml`, 02: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/WebSecureController.java`, 03: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/ServletInitializer.java`, 04: `/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/Application.java`, 05: `/`, 06: `/tree/main/src/main`, 07: `/tree/main/src/main/resources`, 08: `/blob/main/src/main/resources/application.properties`, 09: `/tree/main/src/main/resources/templates`, 10: `/tree/main/src/main/java`, 11: `/tree/main/src/main/java/com/ibm/cicsdev/springboot/security`, 12: `/tree/main/src/main/resources/static/css`, 13: `/tree/main/src/main/webapp/WEB-INF`, 14: `/blob/main/README.md`, 15: `/blob/main/pom.xml`
 
 
 <script type="text/javascript">

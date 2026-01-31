@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,25,16
+/cicsdev/cics-java-jcicsx-samples/blob/main/char-link-program-sample/README.md,4,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/README.md,2,2
+/cicsdev/cics-java-jcicsx-samples/issues,2,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/append-char-container-sample,2,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/ReverseResource.java,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/src/main/java/sample/BitLinkServlet.java,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/char-link-program-sample/src/main/java/sample/CharLinkServlet.java,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/pom.xml,1,1

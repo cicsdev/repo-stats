@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-mq-jms,5,5
+/cicsdev/cics-java-liberty-mq-jms/blob/main/cics-java-liberty-mqjms-mdb/src/main/java/com/ibm/cicsdev/mqjms/mdb/MySimpleMDB.java,2,2
+/cicsdev/cics-java-liberty-mq-jms/blob/main/cics-java-liberty-mqjms-web/src/main/java/com/ibm/cicsdev/mqjms/web/MQJMSDemo.java,2,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-hello,5,4
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web,5,3
+/cicsdev/cics-java-liberty-hello/tree/main,2,2
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web/src/main/webapp,2,2
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web/src/main/webapp/WEB-INF,2,2
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-bundle/pom.xml,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-web/src/main/webapp/WEB-INF/web.xml,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/cics-java-liberty-hello-web/src/main/webapp/index.jsp,1,1
+/cicsdev/cics-java-liberty-hello/blob/main/etc/eclipse_projects/com.ibm.cicsdev.wlp.hello.cicsbundle/cics-java-liberty-hello-web.warbundle,1,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-bundle,1,1

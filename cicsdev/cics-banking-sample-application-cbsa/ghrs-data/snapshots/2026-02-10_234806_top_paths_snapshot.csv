@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,197,112
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,62,28
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/README.md,29,12
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,27,14
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/carbonReactUI/doc/CBSA_Carbon_React_UI_installation_deployment_guide.md,20,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,19,13
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Customer-Services-Interface,12,10
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,12,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/doc,10,9
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_src/BNK1CAC.cbl,10,6

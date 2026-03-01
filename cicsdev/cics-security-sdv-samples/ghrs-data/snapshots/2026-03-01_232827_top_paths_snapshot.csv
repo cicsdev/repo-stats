@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,7,1
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/devcontainer.json,6,1
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/Dockerfile,5,1
+/cicsdev/cics-security-sdv-samples/blob/main/.github/workflows/continuous-integration.yml,4,1
+/cicsdev/cics-security-sdv-samples/blob/main/package.json,3,1
+/cicsdev/cics-security-sdv-samples/tree/main/.github,3,1
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/initialise_dev_container.sh,2,1
+/cicsdev/cics-security-sdv-samples/tree/main,2,1
+/cicsdev/cics-security-sdv-samples/tree/main/.github/workflows,2,1
+/cicsdev/cics-security-sdv-samples/tree/main/docs,2,1

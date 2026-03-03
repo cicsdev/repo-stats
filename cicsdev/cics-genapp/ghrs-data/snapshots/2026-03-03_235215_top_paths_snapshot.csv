@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp,181,114
+/cicsdev/cics-genapp/tree/main/base,110,62
+/cicsdev/cics-genapp/tree/main/base/src,55,35
+/cicsdev/cics-genapp/tree/main,40,17
+/cicsdev/cics-genapp/tree/main/base/cntl,18,9
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb01.cbl,17,14
+/cicsdev/cics-genapp/blob/main/base/Installation.md,17,13
+/cicsdev/cics-genapp/blob/main/base/Architecture.md,17,10
+/cicsdev/cics-genapp/tree/main/base/event-bindings,13,7
+/cicsdev/cics-genapp/blob/main/base/src/ssmap.bms,12,7

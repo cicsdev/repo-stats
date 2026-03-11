@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-security-sdv-samples,14,4
+/cicsdev/cics-security-sdv-samples/tree/main/.github,3,1
+/cicsdev/cics-security-sdv-samples/tree/main/ansible-sdv-pipeline,2,2
+/cicsdev/cics-security-sdv-samples/tree/main/lib,2,2
+/cicsdev/cics-security-sdv-samples/blob/main/.github/workflows/continuous-integration.yml,2,1
+/cicsdev/cics-security-sdv-samples/blob/main/ansible-sdv-pipeline/tasks/check_branch_protection.yaml,2,1
+/cicsdev/cics-security-sdv-samples/tree/main,2,1
+/cicsdev/cics-security-sdv-samples/tree/main/.devcontainer,2,1
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/Dockerfile,1,1
+/cicsdev/cics-security-sdv-samples/blob/main/.devcontainer/devcontainer.json,1,1

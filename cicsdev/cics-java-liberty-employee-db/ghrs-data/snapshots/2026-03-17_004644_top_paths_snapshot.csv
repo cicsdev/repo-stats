@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-employee-db,3,3
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/Liberty/employee.xml,3,2
+/cicsdev/cics-java-liberty-employee-db/tree/main/etc/Liberty,3,2
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/Liberty/type-4-server.xml,2,2
+/cicsdev/cics-java-liberty-employee-db/projects,2,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/MAINTAINERS.md,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/beans/Employee.java,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/faces/AddEmployeeManager.java,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/faces/DatabaseOperationsManager.java,1,1

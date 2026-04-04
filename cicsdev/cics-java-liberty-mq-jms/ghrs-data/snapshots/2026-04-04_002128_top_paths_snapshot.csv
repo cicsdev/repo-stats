@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-mq-jms,7,7
+/cicsdev/cics-java-liberty-mq-jms/tree/main/cics-java-liberty-mqjms-mdb,2,2
+/cicsdev/cics-java-liberty-mq-jms/tree/main/cics-java-liberty-mqjms-web/src/main,2,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/cics-java-liberty-mqjms-mdb/pom.xml,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/cics-java-liberty-mqjms-mdb/src/main/java/com/ibm/cicsdev/mqjms/mdb/MySimpleMDB.java,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/cics-java-liberty-mqjms-web,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/cics-java-liberty-mqjms-web/src/main/java/com/ibm/cicsdev/mqjms/web/MQJMSDemo.java,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/cics-java-liberty-mqjms-web/src/main/webapp/WEB-INF/web.xml,1,1
+/cicsdev/cics-java-liberty-mq-jms/blob/main/etc/server.xml,1,1
+/cicsdev/cics-java-liberty-mq-jms/tree/main,1,1

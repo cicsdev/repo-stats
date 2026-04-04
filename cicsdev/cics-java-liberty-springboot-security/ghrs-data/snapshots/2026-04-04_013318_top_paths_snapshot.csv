@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-security,5,4
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/resources/templates/home.html,4,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/Application.java,3,2
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/webapp/WEB-INF/web.xml,3,2
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/resources/static/css/bootstrap.min.css,3,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/README.md,2,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/ServletInitializer.java,2,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/WebSecureController.java,2,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/resources/application.properties,1,1

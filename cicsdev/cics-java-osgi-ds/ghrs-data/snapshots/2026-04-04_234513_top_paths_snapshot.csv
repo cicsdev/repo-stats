@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/CICSDev/cics-java-osgi-ds,4,2
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp.bundle_1.0.0,1,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.storage.bundle_1.0.0,1,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.storage.impl.bundle_1.0.0,1,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.storage.impl_1.0.0,1,1
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.storage.impl_1.1.0,1,1

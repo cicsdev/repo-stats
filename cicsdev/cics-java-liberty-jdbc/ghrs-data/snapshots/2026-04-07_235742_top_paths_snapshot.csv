@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,17,4
+/cicsdev/cics-java-liberty-jdbc,8,4
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/liberty/server.xml,4,2
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main/java/com/ibm/cicsdev/liberty/jdbc,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-web/pom.xml,1,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/etc/config/jvmprofile/DFHWLP.jvmprofile,1,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/pom.xml,1,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1/cics-java-liberty-jdbc-web/src/main,1,1

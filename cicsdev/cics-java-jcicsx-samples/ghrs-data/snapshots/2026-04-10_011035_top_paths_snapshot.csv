@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,9,9
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp,9,5
+/cicsdev/cics-java-jcicsx-samples/blob/main/char-link-program-sample/src/main/java/sample/CharLinkServlet.java,7,3
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp,3,3
+/cicsdev/cics-java-jcicsx-samples/tree/main/char-link-program-sample/src/main/java/sample,3,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/ReverseResource.java,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/bean/CICSEnvironment.java,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/mockito-testing-containers-sample/pom.xml,2,2
+/cicsdev/cics-java-jcicsx-samples/issues,2,2

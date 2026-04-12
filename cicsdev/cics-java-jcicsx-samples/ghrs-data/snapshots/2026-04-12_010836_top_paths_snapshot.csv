@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,7,7
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp,6,3
+/cicsdev/cics-java-jcicsx-samples/blob/main/char-link-program-sample/src/main/java/sample/CharLinkServlet.java,5,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/bean/CICSEnvironment.java,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/mockito-testing-containers-sample/pom.xml,2,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp,2,2
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/bean,2,2
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/src/main/java/sample/BitLinkServlet.java,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/bit-link-program-sample/src/main/java/sample/CICSApplication.java,2,1

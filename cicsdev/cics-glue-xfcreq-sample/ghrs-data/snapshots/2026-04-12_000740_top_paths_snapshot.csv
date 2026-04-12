@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-glue-xfcreq-sample,19,11
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Cobol/EXITMAIN.cbl,9,3
+/cicsdev/cics-glue-xfcreq-sample/blob/main/doc/documentation.pdf,6,6
+/cicsdev/cics-glue-xfcreq-sample/tree/main/src/Cobol,6,2
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Cobol/EXITDATA.copy,5,3
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/SMPFCREQ.asm,5,2
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Cobol/GWAMAP.copy,5,2
+/cicsdev/cics-glue-xfcreq-sample/tree/main/src,4,2
+/cicsdev/cics-glue-xfcreq-sample/tree/main,3,3
+/cicsdev/cics-glue-xfcreq-sample/tree/main/doc,3,3

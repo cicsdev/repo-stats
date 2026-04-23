@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-loans-and-scoring,11,3
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/README.md,3,2
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/blog.md,3,2
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/src/Cobol/GETQUOTE.cbl,3,2
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/CICS-Paper-Using-the-Liberty-JWT-Feature-with-CICS.pdf,2,2
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/LICENSE,1,1
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/MAINTAINERS.md,1,1
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/projects/com.ibm.cicsdev.cicsjwt.builder.bundle/META-INF/cics.xml,1,1
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/projects/com.ibm.cicsdev.cicsjwt.builder/WebContent/WEB-INF/ibm-web-ext.xml,1,1
+/cicsdev/cics-java-liberty-loans-and-scoring/blob/main/projects/com.ibm.cicsdev.cicsjwt.consumer.bundle/META-INF/cics.xml,1,1

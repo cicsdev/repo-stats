@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer,25,7
+/cicsdev/cics-event-consumer/blob/d43645364b5f0838487b1601e2e24008024c116c/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y/Emit.java,10,7
+/cicsdev/cics-event-consumer/tree/main/examples,8,3
+/cicsdev/cics-event-consumer/blob/main/examples/CA1YCOB4.cbl,7,2
+/cicsdev/cics-event-consumer/blob/main/examples/CA1YCOB1.cbl,5,4
+/cicsdev/cics-event-consumer/blob/main/examples/CA1YCOB3.cbl,5,3
+/cicsdev/cics-event-consumer/blob/d43645364b5f0838487b1601e2e24008024c116c/README.md,5,2
+/cicsdev/cics-event-consumer/blob/main/examples/helloWorld.xslt,5,2
+/cicsdev/cics-event-consumer/blob/main/examples/CA1YCOB2.cbl,4,3
+/cicsdev/cics-event-consumer/tree/d43645364b5f0838487b1601e2e24008024c116c/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y,4,2

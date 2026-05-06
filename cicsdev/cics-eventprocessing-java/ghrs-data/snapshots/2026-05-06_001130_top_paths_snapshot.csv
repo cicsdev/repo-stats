@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-eventprocessing-java,5,3
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/pom.xml,5,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/pom.xml,5,1
+/cicsdev/cics-eventprocessing-java/pull/11,4,2
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/build.gradle,4,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/EVNT.transaction,4,1
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-webapp/src/main/java/com/ibm/cicsdev/eventprocessing/EventConsumer.java,3,1
+/cicsdev/cics-eventprocessing-java/blob/main/pom.xml,3,1
+/cicsdev/cics-eventprocessing-java/blob/main/MAINTAINERS.md,2,2
+/cicsdev/cics-eventprocessing-java/blob/main/cics-eventprocessing-java-bundle/src/main/bundleParts/ACCOUNTADAPTER.epadapter,2,1

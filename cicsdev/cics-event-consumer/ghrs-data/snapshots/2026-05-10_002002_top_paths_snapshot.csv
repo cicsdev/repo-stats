@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer,5,4
+/cicsdev/cics-event-consumer/tree/main/docs,3,3
+/cicsdev/cics-event-consumer/tree/main,2,2
+/cicsdev/cics-event-consumer/blob/d43645364b5f0838487b1601e2e24008024c116c/cics-event-consumer-bundle/.gitignore,2,1
+/cicsdev/cics-event-consumer/blob/d43645364b5f0838487b1601e2e24008024c116c/cics-event-consumer-ca1y/src/main/java/com/ibm/cics/ca1y/Emit.java,1,1
+/cicsdev/cics-event-consumer/blob/main/README.md,1,1
+/cicsdev/cics-event-consumer/blob/main/SUMMARY.md,1,1
+/cicsdev/cics-event-consumer/blob/main/docs/properties.md,1,1
+/cicsdev/cics-event-consumer/branches,1,1
+/cicsdev/cics-event-consumer/issues/24,1,1

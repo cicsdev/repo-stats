@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,16,11
+/cicsdev/cics-java-liberty-restapp/issues,6,6
+/cicsdev/cics-java-liberty-restapp/pulls,2,2
+/cicsdev/cics-java-liberty-restapp/tree/main,2,2
+/cicsdev/cics-java-liberty-restapp/tree/main/cics-java-liberty-restapp-app,2,2
+/cicsdev/cics-java-liberty-restapp/tree/main/cics-java-liberty-restapp-app/src/main/java/com/ibm/cicsdev/restapp,2,2
+/cicsdev/cics-java-liberty-restapp/tree/piw-project-refactor,2,2
+/cicsdev/cics-java-liberty-restapp/blob/main/README.md,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/etc/eclipse_projects/com.ibm.cicsdev.wlp.restapp.cicsbundle,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/etc/eclipse_projects/com.ibm.cicsdev.wlp.restapp.cicsbundle/cics-java-liberty-restapp-app.warbundle,1,1

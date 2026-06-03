@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-glue-xfcreq-sample,4,4
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/EXITDATA.dsect,2,2
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/SMPFCREQ.asm,2,2
+/cicsdev/cics-glue-xfcreq-sample/blob/main/LICENSE,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/MAINTAINERS.md,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/README.md,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/GWAMAP.dsect,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/UEPTSMAP.dsect,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Cobol/EXITDATA.copy,1,1

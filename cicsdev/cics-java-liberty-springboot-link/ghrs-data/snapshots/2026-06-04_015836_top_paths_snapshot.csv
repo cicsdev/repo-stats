@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-link,6,3
+/cicsdev/cics-java-liberty-springboot-link/blob/main/cobol/GOSPRING.cbl,5,3
+/cicsdev/cics-java-liberty-springboot-link/tree/main,3,3
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/Message.java,3,2
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/Application.java,3,1
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/mvc/MessageController.java,3,1
+/cicsdev/cics-java-liberty-springboot-link/blob/main/.github/workflows/java.yaml,2,2
+/cicsdev/cics-java-liberty-springboot-link/blob/main/README.md,2,2
+/cicsdev/cics-java-liberty-springboot-link/pull/14,2,2
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/cics/CICSCallable.java,2,1

@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-hello,2,2
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/cics-java-osgi-hello-app/META-INF/MANIFEST.MF,1,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/cics-java-osgi-hello-bundle/pom.xml,1,1
+/cicsdev/cics-java-osgi-hello/blob/cicsts/v6.1/etc/eclipse_projects/com.ibm.cics.server.examples.osgi.hello.bundle/cics-java-osgi-hello-app.osgibundle,1,1
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v6.1,1,1
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v6.1/cics-java-osgi-hello-bundle,1,1
+/cicsdev/cics-java-osgi-hello/tree/cicsts/v6.1/cics-java-osgi-hello-bundle/src/main/bundleParts,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jdbc,5,5
+/cicsdev/cics-java-liberty-springboot-jdbc/pulls,4,3
+/cicsdev/cics-java-liberty-springboot-jdbc/pull/12,3,2
+/cicsdev/cics-java-liberty-springboot-jdbc/issues,2,2
+/cicsdev/cics-java-liberty-springboot-jdbc/pull/12/changes,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/EmployeeRestController.java,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/compare,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/compare/ayushi/jdbc,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/compare/main...ayushi/jdbc,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/pull/12/changes/BASE..db6511beff6edf48d5c639f1d3c5abed9a6caa29,1,1

@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-hello,5,3
+/cicsdev/cics-java-liberty-hello/blob/main/.github/workflows/java.yaml,2,1
+/cicsdev/cics-java-liberty-hello/pulls,2,1
+/cicsdev/cics-java-liberty-hello/tree/main,2,1
+/cicsdev/cics-java-liberty-hello/tree/main/.github/workflows,2,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web,2,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web/src/main,1,1
+/cicsdev/cics-java-liberty-hello/tree/main/cics-java-liberty-hello-web/src/main/webapp,1,1

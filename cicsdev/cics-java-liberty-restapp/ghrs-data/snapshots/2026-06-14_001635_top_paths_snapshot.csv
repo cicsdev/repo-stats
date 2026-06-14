@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,26,13
+/cicsdev/cics-java-liberty-restapp/pull/34,20,5
+/cicsdev/cics-java-liberty-restapp/pulls,14,7
+/cicsdev/cics-java-liberty-restapp/pull/34/changes,9,1
+/cicsdev/cics-java-liberty-restapp/pull/33,8,3
+/cicsdev/cics-java-liberty-restapp/tree/main/.github/workflows,6,3
+/cicsdev/cics-java-liberty-restapp/blob/main/.github/workflows/main.yml,6,2
+/cicsdev/cics-java-liberty-restapp/issues,5,5
+/cicsdev/cics-java-liberty-restapp/actions,4,3
+/cicsdev/cics-java-liberty-restapp/blob/main/cics-java-liberty-restapp-app/src/main/java/com/ibm/cicsdev/restapp/ReverseResource.java,4,3

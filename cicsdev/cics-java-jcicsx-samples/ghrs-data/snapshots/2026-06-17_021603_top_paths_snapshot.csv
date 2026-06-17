@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcicsx-samples,10,9
+/cicsdev/cics-java-jcicsx-samples/pulls,3,3
+/cicsdev/cics-java-jcicsx-samples/tree/main/cics-java-liberty-restapp,2,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/append-char-container-sample/src/main/java/sample/AppendCharServlet.java,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/cobol/EDUCHAN.cbl,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,1,1
+/cicsdev/cics-java-jcicsx-samples/blob/main/cics-java-liberty-restapp/src/main/java/com/ibm/cicsdev/restapp/bean/CICSInformation.java,1,1
+/cicsdev/cics-java-jcicsx-samples/issues,1,1

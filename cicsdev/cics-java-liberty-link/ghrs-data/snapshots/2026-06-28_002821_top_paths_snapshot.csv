@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-link,7,6
+/cicsdev/cics-java-liberty-link/issues,2,2
+/cicsdev/cics-java-liberty-link/blob/0424d0999f89b19631d93594c21bb2b5b358da59/cics-java-liberty-link-bundle/src/main/bundleParts/WLPH.transaction,1,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/pom.xml,1,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link/HelloLiberty.java,1,1
+/cicsdev/cics-java-liberty-link/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-link/pulls,1,1

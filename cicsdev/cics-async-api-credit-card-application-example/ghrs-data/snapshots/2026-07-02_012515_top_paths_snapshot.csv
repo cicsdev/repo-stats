@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,7,3
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline,5,2
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-resources,5,2
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/src,5,2
+/cicsdev/cics-async-api-credit-card-application-example/tree/main,4,2
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles,4,2
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-webservices,4,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/GETNAME.program,3,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/GETPOL.program,3,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/CRDTCHK.cbl,3,2

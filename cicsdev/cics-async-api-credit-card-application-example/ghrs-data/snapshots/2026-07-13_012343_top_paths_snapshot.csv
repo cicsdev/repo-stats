@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,4,3
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-webservices/ASYNCPN2.urimap,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-webservices/ASYNCPNT.wsbind,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/GETADDR.cbl,2,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/CSSTATUS.program,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/GETNAME.program,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/GETPOL.program,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/ICCK.transaction,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-resources/SEQPNT.program,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-webservices/SEQPNT.webservice,2,1

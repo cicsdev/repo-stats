@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jms,13,4
+/cicsdev/cics-java-liberty-springboot-jms/pull/12/changes,4,1
+/cicsdev/cics-java-liberty-springboot-jms/pull/13,3,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/cics-java-liberty-springboot-jms-app/src/main/java/com/ibm/cicsdev/springboot/jms/JMSMessageSendController.java,2,1
+/cicsdev/cics-java-liberty-springboot-jms/compare/IH-publish-fixes,2,1
+/cicsdev/cics-java-liberty-springboot-jms/pull/12,2,1
+/cicsdev/cics-java-liberty-springboot-jms/pull/13/changes,2,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/MAINTAINERS.md,1,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/cics-java-liberty-springboot-jms-app/src/main/java/com/ibm/cicsdev/springboot/jms/Application.java,1,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/cics-java-liberty-springboot-jms-app/src/main/java/com/ibm/cicsdev/springboot/jms/ServletInitializer.java,1,1

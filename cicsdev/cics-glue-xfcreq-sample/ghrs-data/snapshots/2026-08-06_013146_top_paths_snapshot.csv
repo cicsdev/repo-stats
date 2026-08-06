@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-glue-xfcreq-sample,7,5
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/SMPFCREQ.asm,4,1
+/cicsdev/cics-glue-xfcreq-sample/tree/main/src,3,2
+/cicsdev/cics-glue-xfcreq-sample/tree/main/src/Assembler,3,2
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/EXITDATA.dsect,2,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/src/Assembler/UEPTSMAP.dsect,2,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/doc/documentation.pdf,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/etc/resources/csd,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/etc/resources/csd/CSD-LOCAL.txt,1,1
+/cicsdev/cics-glue-xfcreq-sample/blob/main/etc/resources/files,1,1

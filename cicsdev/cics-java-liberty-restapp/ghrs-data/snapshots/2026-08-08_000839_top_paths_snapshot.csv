@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,8,6
+/cicsdev/cics-java-liberty-restapp/pull/39,6,5
+/cicsdev/cics-java-liberty-restapp/pull/40,5,2
+/cicsdev/cics-java-liberty-restapp/tree/main/cics-java-liberty-restapp-app,5,1
+/cicsdev/cics-java-liberty-restapp/tree/main,4,3
+/cicsdev/cics-java-liberty-restapp/blob/main/cics-java-liberty-restapp-app/.project,3,1
+/cicsdev/cics-java-liberty-restapp/tree/main/cics-java-liberty-restapp-app/src/main/java/com/ibm/cicsdev/restapp,3,1
+/cicsdev/cics-java-liberty-restapp/tree/main/cics-java-liberty-restapp-app/src/main/webapp/WEB-INF,3,1
+/cicsdev/cics-java-liberty-restapp/blob/main/cics-java-liberty-restapp-app/src/main/java/com/ibm/cicsdev/restapp/CICSApplication.java,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/cics-java-liberty-restapp-app/src/main/webapp/WEB-INF/ibm-web-ext.xml,2,1

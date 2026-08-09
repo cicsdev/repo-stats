@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jdbc,4,3
+/cicsdev/cics-java-liberty-springboot-jdbc/pull/28,4,2
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/cics-java-liberty-springboot-jdbc-app/pom.xml,3,1
+/cicsdev/cics-java-liberty-springboot-jdbc/pull/28/changes,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/cics-java-liberty-springboot-jdbc-app/build.properties,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/cics-java-liberty-springboot-jdbc-app/src/main/resources/application.properties,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/cics-java-liberty-springboot-jdbc-cicsbundle/pom.xml,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/gradle.properties,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/pom.xml,1,1
+/cicsdev/cics-java-liberty-springboot-jdbc/compare/ayushi/jdbc,1,1

@@ -1,0 +1,3 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-kafka,4,3
+/cicsdev/cics-java-liberty-kafka/blob/main/cics-java-liberty-kafka-app/src/main/java/com/ibm/cicsdev/kafka/KafkaConsumerService.java,1,1

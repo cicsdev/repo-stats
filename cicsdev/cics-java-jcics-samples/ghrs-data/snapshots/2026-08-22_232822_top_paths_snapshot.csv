@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-jcics-samples,35,17
+/cicsdev/cics-java-jcics-samples/tree/main/cics-java-jcics-link-app,13,7
+/cicsdev/cics-java-jcics-samples/blob/main/cics-java-jcics-link-app/src/main/java/com/ibm/cicsdev/link/LinkProg1.java,6,5
+/cicsdev/cics-java-jcics-samples/blob/main/cics-java-jcics-link-app/src/main/java/com/ibm/cicsdev/link/LinkProgCommon.java,5,3
+/cicsdev/cics-java-jcics-samples/blob/53db5e205d617e8cbe48c69f451d368734355bc7/cics-java-jcics-vsam-app/src/main/java/com/ibm/cicsdev/vsam/ksds/KsdsExampleCommon.java,4,4
+/cicsdev/cics-java-jcics-samples/tree/main/cics-java-jcics-link-app/src/main/java/com/ibm/cicsdev/link,4,4
+/cicsdev/cics-java-jcics-samples/blob/main/cics-java-jcics-link-app/META-INF/MANIFEST.MF,4,3
+/cicsdev/cics-java-jcics-samples/tree/main,4,3
+/cicsdev/cics-java-jcics-samples/blob/main/cics-java-jcics-link-app/build.gradle,4,2
+/cicsdev/cics-java-jcics-samples/tree/main/cics-java-jcics-vsam-app/src/main/java/com/ibm/cicsdev/vsam/ksds,3,2

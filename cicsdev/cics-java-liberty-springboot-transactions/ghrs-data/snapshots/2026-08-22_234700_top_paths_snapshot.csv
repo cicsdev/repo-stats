@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-transactions,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/.classpath,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/cics-java-liberty-springboot-transactions-app/src/main/java/com/ibm/cicsdev/springboot/transactions/Application.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/cics-java-liberty-springboot-transactions-app/src/main/java/com/ibm/cicsdev/springboot/transactions/JEEUserTransaction.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/cics-java-liberty-springboot-transactions-app/src/main/java/com/ibm/cicsdev/springboot/transactions/ServletInitializer.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/cics-java-liberty-springboot-transactions-app/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactionTemplate.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/cics-java-liberty-springboot-transactions-app/src/main/java/com/ibm/cicsdev/springboot/transactions/SpringTransactional.java,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/cics-java-liberty-springboot-transactions-app/src/main/webapp/WEB-INF/ibm-web-ext.xml,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/cics-java-liberty-springboot-transactions-app/src/main/webapp/WEB-INF/web.xml,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/pom.xml,1,1

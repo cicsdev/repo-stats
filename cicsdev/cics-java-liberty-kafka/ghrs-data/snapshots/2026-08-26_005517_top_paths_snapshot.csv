@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-kafka,10,6
+/cicsdev/cics-java-liberty-kafka/commits/main,2,2
+/cicsdev/cics-java-liberty-kafka/tree/main/cics-java-liberty-kafka-app,2,2
+/cicsdev/cics-java-liberty-kafka/tree/main/cics-java-liberty-kafka-app/src/main,2,2
+/cicsdev/cics-java-liberty-kafka/tree/main/cics-java-liberty-kafka-app/src/main/java/com/ibm/cicsdev/kafka,2,2
+/cicsdev/cics-java-liberty-kafka/blob/main/cics-java-liberty-kafka-app/src/main/java/com/ibm/cicsdev/kafka/KafkaConsumerService.java,2,1
+/cicsdev/cics-java-liberty-kafka/blob/main/etc/config/liberty/server.xml,1,1
+/cicsdev/cics-java-liberty-kafka/tree/main/.settings,1,1
+/cicsdev/cics-java-liberty-kafka/tree/main/etc/config/liberty,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,7,3
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/src,3,2
+/cicsdev/cics-async-api-credit-card-application-example/tree/main,2,2
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/ASYNCPNT.cbl,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/CRDTCHK.cbl,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/CSSTATS2.cbl,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/GETADDR.cbl,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/GETNAME.cbl,1,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/UPDCSDB.cbl,1,1
+/cicsdev/cics-async-api-credit-card-application-example/pulls,1,1

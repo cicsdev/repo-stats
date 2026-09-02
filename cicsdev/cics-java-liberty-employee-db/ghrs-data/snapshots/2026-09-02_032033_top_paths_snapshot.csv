@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-employee-db,5,4
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects,2,2
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.cicsbundle,2,2
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/Liberty/employee.xml,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle/.project,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle/.settings/org.eclipse.core.resources.prefs,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle/META-INF/cics.xml,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.cicsbundle/employee.jdbc.web.warbundle,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/beans/Employee.java,1,1
+/cicsdev/cics-java-liberty-employee-db/blob/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/faces/AddEmployeeManager.java,1,1

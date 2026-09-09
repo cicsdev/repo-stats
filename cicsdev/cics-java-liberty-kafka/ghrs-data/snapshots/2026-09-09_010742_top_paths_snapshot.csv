@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-kafka,12,3
+/cicsdev/cics-java-liberty-kafka/pull/15,7,3
+/cicsdev/cics-java-liberty-kafka/pull/16,5,4
+/cicsdev/cics-java-liberty-kafka/compare/idh/fix-copyright-workflow-trigger,4,1
+/cicsdev/cics-java-liberty-kafka/actions/workflows/build.yaml,2,1
+/cicsdev/cics-java-liberty-kafka/blob/main/cics-java-liberty-kafka-app/src/main/java/com/ibm/cicsdev/kafka/KafkaMessageProcessor.java,2,1
+/cicsdev/cics-java-liberty-kafka/commit/fb5e8711cd0b9d78bde967de8d2f298f1ee896f1,1,1
+/cicsdev/cics-java-liberty-kafka/compare/idh/deep-scan-fixes,1,1
+/cicsdev/cics-java-liberty-kafka/pull/15/changes,1,1
+/cicsdev/cics-java-liberty-kafka/pull/15/commits,1,1

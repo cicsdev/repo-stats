@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,7,2
+/cicsdev/cics-java-liberty-restapp/tree/main,3,3
+/cicsdev/cics-java-liberty-restapp/blob/main/etc/src/cobol/EDUCHAN.cbl,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/InfoResource.java,2,1
+/cicsdev/cics-java-liberty-restapp/pulls,2,1
+/cicsdev/cics-java-liberty-restapp/tree/main/etc,2,1
+/cicsdev/cics-java-liberty-restapp/tree/main/etc/src/cobol,2,1
+/cicsdev/cics-java-liberty-restapp/blob/main/README.md,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/cics-java-liberty-restapp-app/src/main/java/com/ibm/cicsdev/restapp/ReverseResource.java,1,1
+/cicsdev/cics-java-liberty-restapp/blob/main/cics-java-liberty-restapp-cicsbundle-eclipse/cics-java-liberty-restapp-app.warbundle,1,1

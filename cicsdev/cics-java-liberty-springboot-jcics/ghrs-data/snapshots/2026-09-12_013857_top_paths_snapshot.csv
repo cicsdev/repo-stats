@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,20,8
+/cicsdev/cics-java-liberty-springboot-jcics/tree/springboot/v3,7,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/springboot/v3/cics-java-liberty-springboot-jcics-app/src/main/webapp/WEB-INF/ibm-web-ext.xml,4,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/springboot/v3/cics-java-liberty-springboot-jcics-cicsbundle/pom.xml,4,1
+/cicsdev/cics-java-liberty-springboot-jcics/tree/springboot/v4,3,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/springboot/v3/README.md,3,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/springboot/v3/cics-java-liberty-springboot-jcics-app/pom.xml,3,1
+/cicsdev/cics-java-liberty-springboot-jcics/labels,3,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/springboot/v3/cics-java-liberty-springboot-jcics-app/build.gradle,2,2
+/cicsdev/cics-java-liberty-springboot-jcics/pull/37,2,2

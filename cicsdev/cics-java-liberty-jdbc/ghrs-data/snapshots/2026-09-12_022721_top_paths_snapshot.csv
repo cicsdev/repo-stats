@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,12,4
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v6.1,8,1
+/cicsdev/cics-java-liberty-jdbc/tree/cicsts/v5.5,7,1
+/cicsdev/cics-java-liberty-jdbc/pull/26,3,2
+/cicsdev/cics-java-liberty-jdbc/pull/28,3,2
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-app/build.gradle,3,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/cics-java-liberty-jdbc-app/pom.xml,3,1
+/cicsdev/cics-java-liberty-jdbc/blob/ayushi/v5.5/etc/config/liberty/db2/type2.xml,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/.classpath,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/cicsts/v6.1/.gitignore,2,1

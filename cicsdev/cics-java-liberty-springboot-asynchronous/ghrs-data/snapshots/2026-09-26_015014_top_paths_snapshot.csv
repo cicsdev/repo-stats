@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-asynchronous,3,3
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/cics-java-liberty-springboot-asynchronous-app/src/main/java/com/ibm/cicsdev/springboot/asynchronous/AsyncService.java,1,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/cics-java-liberty-springboot-asynchronous-app/src/main/java/com/ibm/cicsdev/springboot/asynchronous/RESTControllerAsync.java,1,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/cics-java-liberty-springboot-asynchronous-app/src/main/webapp/WEB-INF/web.xml,1,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/cics-java-liberty-springboot-asynchronous-app,1,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/cics-java-liberty-springboot-asynchronous-app/src/main,1,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/cics-java-liberty-springboot-asynchronous-app/src/main/java/com/ibm/cicsdev/springboot/asynchronous,1,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/cics-java-liberty-springboot-asynchronous-app/src/main/webapp,1,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/cics-java-liberty-springboot-asynchronous-app/src/main/webapp/WEB-INF,1,1

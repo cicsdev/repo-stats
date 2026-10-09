@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jdbc,12,9
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/cics-java-liberty-springboot-jdbc-app/src/main,4,2
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/cics-java-liberty-springboot-jdbc-app,3,2
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/cics-java-liberty-springboot-jdbc-app/src/main/java/com/ibm/cicsdev/springboot/jdbc,3,2
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/cics-java-liberty-springboot-jdbc-app/src/main/java/com/ibm/cicsdev/springboot/jdbc/Application.java,2,2
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/etc/config/liberty/server.xml,2,2
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/etc/config/liberty,2,2
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/cics-java-liberty-springboot-jdbc-app/src/main/webapp/WEB-INF/web.xml,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/cics-java-liberty-springboot-jdbc-app/src/main/resources,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/cics-java-liberty-springboot-jdbc-app/src/main/webapp/WEB-INF,2,1

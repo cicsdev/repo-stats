@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-transactions,9,3
+/cicsdev/cics-java-liberty-springboot-transactions/tree/main/.github/workflows,2,2
+/cicsdev/cics-java-liberty-springboot-transactions/actions/workflows/cleanup-old-runs.yaml,2,1
+/cicsdev/cics-java-liberty-springboot-transactions/blob/main/.github/workflows/cleanup-old-runs.yaml,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/branches,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/compare/idh/main-build-sync,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/compare/idh/v4-ci-and-currency,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/compare/idh/v4-ci-and-currency...idh/v4-ci-and-currency,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/compare/springboot/v4...idh/v4-ci-and-currency,1,1
+/cicsdev/cics-java-liberty-springboot-transactions/pull/39,1,1

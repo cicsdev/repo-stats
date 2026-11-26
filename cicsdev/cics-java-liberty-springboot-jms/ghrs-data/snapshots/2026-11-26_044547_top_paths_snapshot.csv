@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jms,13,1
+/cicsdev/cics-java-liberty-springboot-jms/branches,3,1
+/cicsdev/cics-java-liberty-springboot-jms/pull/11,2,2
+/cicsdev/cics-java-liberty-springboot-jms/compare/springboot/v3...springboot/v3,2,1
+/cicsdev/cics-java-liberty-springboot-jms/pulls,2,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/.github/workflows,2,1
+/cicsdev/cics-java-liberty-springboot-jms/tree/springboot/v4,2,1
+/cicsdev/cics-java-liberty-springboot-jms/actions/workflows/build.yaml,1,1
+/cicsdev/cics-java-liberty-springboot-jms/actions/workflows/cleanup-old-runs.yaml,1,1
+/cicsdev/cics-java-liberty-springboot-jms/actions/workflows/github-code-scanning/codeql,1,1
